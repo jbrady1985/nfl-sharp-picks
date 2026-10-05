@@ -5,102 +5,113 @@
   2,
   3
  ],
- "n_games": 302,
- "n_trades": 916701,
- "n_wallets": 17648,
+ "n_games": 303,
+ "n_trades": 921356,
+ "n_wallets": 17832,
  "n_consistent": 2919,
- "n_eligible": 1042,
+ "n_eligible": 1045,
  "min_volume": 1000,
  "top_n": 10,
- "run_time": "2026-10-05T01:50:48.969003+00:00",
+ "run_time": "2026-10-05T21:10:34.909707+00:00",
  "top": [
   {
-   "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-   "realized_pnl": 1648607.7840555916,
-   "season_buy_volume": 10533273.011643408,
-   "markets_traded": 131,
-   "had_unmatched_sells": false,
-   "roi_pct": 15.6514293538,
-   "name": "BreakTheBank",
-   "pseudonym": "Homely-Gosling",
-   "profile_url": "https://polymarket.com/profile/0xf0318c32136c2db7fec88b84869aee6a1106c80c"
-  },
-  {
-   "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-   "realized_pnl": 1485132.2037520176,
-   "season_buy_volume": 4169466.4314239826,
-   "markets_traded": 54,
-   "had_unmatched_sells": false,
-   "roi_pct": 35.6192387726,
-   "name": "Kch-Temp",
-   "pseudonym": "Esteemed-Cloves",
-   "profile_url": "https://polymarket.com/profile/0x924379a79c64b77ad5816ad362122a5f6228658e"
-  },
-  {
    "wallet": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
-   "realized_pnl": 1170786.072168675,
+   "realized_pnl": 1589472.5261083357,
    "season_buy_volume": 5710734.968142165,
    "markets_traded": 150,
    "had_unmatched_sells": false,
-   "roi_pct": 20.501495494,
+   "roi_pct": 27.8330641323,
    "name": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
    "pseudonym": "Dual-Criticism",
    "profile_url": "https://polymarket.com/profile/0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
   },
   {
-   "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-   "realized_pnl": 868296.2993362008,
-   "season_buy_volume": 13966393.052841244,
-   "markets_traded": 1000,
+   "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+   "realized_pnl": 1485132.2037520176,
+   "season_buy_volume": 4512962.292623983,
+   "markets_traded": 58,
    "had_unmatched_sells": false,
-   "roi_pct": 6.2170404059,
+   "roi_pct": 32.9081456359,
+   "name": "Kch-Temp",
+   "pseudonym": "Esteemed-Cloves",
+   "profile_url": "https://polymarket.com/profile/0x924379a79c64b77ad5816ad362122a5f6228658e"
+  },
+  {
+   "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+   "realized_pnl": 1082672.614798592,
+   "season_buy_volume": 10533273.011643408,
+   "markets_traded": 131,
+   "had_unmatched_sells": false,
+   "roi_pct": 10.2785963451,
+   "name": "BreakTheBank",
+   "pseudonym": "Homely-Gosling",
+   "profile_url": "https://polymarket.com/profile/0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+  },
+  {
+   "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+   "realized_pnl": 901176.412229332,
+   "season_buy_volume": 5018678.628298009,
+   "markets_traded": 43,
+   "had_unmatched_sells": true,
+   "roi_pct": 17.9564478815,
+   "name": "Diabolical-Prize",
+   "pseudonym": "Well-Documented-Outrigger",
+   "profile_url": "https://polymarket.com/profile/0x7c37b52eb226bcb9411375ec48b0169663fb6aeb"
+  },
+  {
+   "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+   "realized_pnl": 879593.8514427552,
+   "season_buy_volume": 13994393.052841565,
+   "markets_traded": 1001,
+   "had_unmatched_sells": false,
+   "roi_pct": 6.2853304757,
    "name": "ferrariChampions2026",
    "pseudonym": "Glaring-Salt",
    "profile_url": "https://polymarket.com/profile/0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
-   "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
-   "realized_pnl": 679647.484512236,
-   "season_buy_volume": 9731346.201315694,
-   "markets_traded": 174,
-   "had_unmatched_sells": true,
-   "roi_pct": 6.9841054922,
-   "name": "gmpm2",
-   "pseudonym": "Boring-Musician",
-   "profile_url": "https://polymarket.com/profile/0x67542c3219b37fd1610aad290676ff91cdbfe3bc"
-  },
-  {
    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
-   "realized_pnl": 625427.8922429797,
-   "season_buy_volume": 2484159.213763301,
-   "markets_traded": 1077,
+   "realized_pnl": 646300.9082414203,
+   "season_buy_volume": 2503020.64162328,
+   "markets_traded": 1091,
    "had_unmatched_sells": true,
-   "roi_pct": 25.1766428165,
+   "roi_pct": 25.8208381303,
    "name": "VeryLucky888",
    "pseudonym": "Scornful-West",
    "profile_url": "https://polymarket.com/profile/0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
-   "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
-   "realized_pnl": 446327.7697075579,
-   "season_buy_volume": 4873236.73295822,
-   "markets_traded": 672,
-   "had_unmatched_sells": true,
-   "roi_pct": 9.1587541128,
-   "name": "takeormake",
-   "pseudonym": "Scary-Fannypack",
-   "profile_url": "https://polymarket.com/profile/0xa38a455bbdd4b68486548b7e19da99903f4f821d"
-  },
-  {
    "wallet": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
-   "realized_pnl": 384110.0934030653,
+   "realized_pnl": 371649.0007304632,
    "season_buy_volume": 8595927.665974434,
    "markets_traded": 2658,
    "had_unmatched_sells": true,
-   "roi_pct": 4.4685123971,
+   "roi_pct": 4.3235473258,
    "name": "",
    "pseudonym": "",
    "profile_url": "https://polymarket.com/profile/0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+   "realized_pnl": 326840.1502986717,
+   "season_buy_volume": 9783337.814073691,
+   "markets_traded": 178,
+   "had_unmatched_sells": true,
+   "roi_pct": 3.3407836519,
+   "name": "gmpm2",
+   "pseudonym": "Boring-Musician",
+   "profile_url": "https://polymarket.com/profile/0x67542c3219b37fd1610aad290676ff91cdbfe3bc"
+  },
+  {
+   "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
+   "realized_pnl": 297026.6195057801,
+   "season_buy_volume": 4873769.804708221,
+   "markets_traded": 675,
+   "had_unmatched_sells": true,
+   "roi_pct": 6.0943916395,
+   "name": "takeormake",
+   "pseudonym": "Scary-Fannypack",
+   "profile_url": "https://polymarket.com/profile/0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
    "wallet": "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f",
@@ -112,17 +123,6 @@
    "name": "bands1",
    "pseudonym": "Automatic-Kind",
    "profile_url": "https://polymarket.com/profile/0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f"
-  },
-  {
-   "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
-   "realized_pnl": 241176.418829332,
-   "season_buy_volume": 5018678.628298009,
-   "markets_traded": 43,
-   "had_unmatched_sells": true,
-   "roi_pct": 4.8055760628,
-   "name": "Diabolical-Prize",
-   "pseudonym": "Well-Documented-Outrigger",
-   "profile_url": "https://polymarket.com/profile/0x7c37b52eb226bcb9411375ec48b0169663fb6aeb"
   }
  ],
  "consensus": [
@@ -175,6 +175,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
+   "game": "Falcons vs. Saints",
+   "event_id": "909452",
+   "condition_id": "0x16e714f3ab35f42bb4bd2d464fcefa21d7d899a15696c615b4cd3ba04098fc93",
+   "market": "Falcons vs. Saints: O/U 48.5",
+   "pick": "Over",
+   "market_type": "totals",
+   "kickoff": "2026-10-06T00:15:00+00:00",
+   "kickoff_et": "Mon 10/05 08:15 PM",
+   "wallets": 2,
+   "dollars": 28323.02,
+   "avg_entry_price": 0.48,
+   "current_price": 0.465,
+   "status": "open",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+  },
+  {
    "game": "Patriots vs. Bills",
    "event_id": "909433",
    "condition_id": "0x173338be1604e9e9b1c43522ef993871355eed52b946353e119d747a759d117d",
@@ -218,8 +234,8 @@
    "wallets": 1,
    "dollars": 167.64,
    "avg_entry_price": 0.44,
-   "current_price": 0.515,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -1023,6 +1039,22 @@
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
+   "game": "Falcons vs. Saints",
+   "event_id": "909452",
+   "condition_id": "0xfa8cb407cbd8374537ef084699d7c29d0eae5501049a072251325be268eed216",
+   "market": "Spread: Saints (-2.5)",
+   "pick": "Falcons",
+   "market_type": "spreads",
+   "kickoff": "2026-10-06T00:15:00+00:00",
+   "kickoff_et": "Mon 10/05 08:15 PM",
+   "wallets": 2,
+   "dollars": 34883.51,
+   "avg_entry_price": 0.53,
+   "current_price": 0.535,
+   "status": "open",
+   "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
    "game": "Lions vs. Panthers",
    "event_id": "909450",
    "condition_id": "0xdff02e551587c67088d7037f2275eee69916ae7f73e28749a308438454d2f4f2",
@@ -1034,8 +1066,8 @@
    "wallets": 1,
    "dollars": 5495.22,
    "avg_entry_price": 0.549,
-   "current_price": 0.38,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -1386,8 +1418,8 @@
    "wallets": 4,
    "dollars": 22670.07,
    "avg_entry_price": 0.5,
-   "current_price": 0.75,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -1455,6 +1487,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Falcons vs. Saints",
+   "event_id": "909452",
+   "condition_id": "0xeb911832dc9d92e9aa121230d361dbf07b1c7c1098672fc505d1e0588384de85",
+   "market": "Falcons vs. Saints: O/U 50.5",
+   "pick": "Under",
+   "market_type": "totals",
+   "kickoff": "2026-10-06T00:15:00+00:00",
+   "kickoff_et": "Mon 10/05 08:15 PM",
+   "wallets": 1,
+   "dollars": 1727.13,
+   "avg_entry_price": 0.571,
+   "current_price": 0.575,
+   "status": "open",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
    "game": "Colts vs. Commanders",
    "event_id": "909431",
    "condition_id": "0xafdd4af9e1791b2c16100fa981fcb87cf6b8c823458ff7d3f1960ba03df18316",
@@ -1514,8 +1562,8 @@
    "wallets": 1,
    "dollars": 3474.25,
    "avg_entry_price": 0.38,
-   "current_price": 0.225,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -2314,8 +2362,8 @@
    "wallets": 1,
    "dollars": 1828.85,
    "avg_entry_price": 0.514,
-   "current_price": 0.425,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -2495,6 +2543,22 @@
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Falcons vs. Saints",
+   "event_id": "909452",
+   "condition_id": "0x8ca79635ffb3cbf38aa5de04eac32ad5bafd05ebf74adbc69d83f8d570913842",
+   "market": "1H Spread: Falcons (-1.5)",
+   "pick": "Saints",
+   "market_type": "first_half_spreads",
+   "kickoff": "2026-10-06T00:15:00+00:00",
+   "kickoff_et": "Mon 10/05 08:15 PM",
+   "wallets": 1,
+   "dollars": 551.76,
+   "avg_entry_price": 0.57,
+   "current_price": 0.58,
+   "status": "open",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
    "game": "Rams vs. Eagles",
    "event_id": "909441",
    "condition_id": "0x2076481e6547646047219c7f9af3327f3e51b1eb6a0ad0672394fcb7563543b1",
@@ -2650,8 +2714,8 @@
    "wallets": 4,
    "dollars": 8466.55,
    "avg_entry_price": 0.463,
-   "current_price": 0.33,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xf0318c32136c2db7fec88b84869aee6a1106c80c, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -2749,6 +2813,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Falcons vs. Saints - Player Props",
+   "event_id": "1106036",
+   "condition_id": "0x9c1c1691380452c43e28313cbdb3939b710ba1dc97857fcdb90963580489c273",
+   "market": "Chris Olave: Anytime Touchdown",
+   "pick": "No",
+   "market_type": "anytime_touchdowns",
+   "kickoff": "2026-10-06T00:15:00+00:00",
+   "kickoff_et": "Mon 10/05 08:15 PM",
+   "wallets": 1,
+   "dollars": 234.35,
+   "avg_entry_price": 0.58,
+   "current_price": 0.585,
+   "status": "open",
+   "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
    "game": "Dolphins vs. Vikings",
@@ -3098,8 +3178,8 @@
    "wallets": 1,
    "dollars": 47.92,
    "avg_entry_price": 0.458,
-   "current_price": 0.29,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -3770,8 +3850,8 @@
    "wallets": 2,
    "dollars": 152.65,
    "avg_entry_price": 0.404,
-   "current_price": 0.59,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -3866,8 +3946,8 @@
    "wallets": 1,
    "dollars": 41171.81,
    "avg_entry_price": 0.52,
-   "current_price": 0.67,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -4026,8 +4106,8 @@
    "wallets": 1,
    "dollars": 919.6,
    "avg_entry_price": 0.44,
-   "current_price": 0.855,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -4106,8 +4186,8 @@
    "wallets": 2,
    "dollars": 36735.31,
    "avg_entry_price": 0.617,
-   "current_price": 0.45,
-   "status": "in progress",
+   "current_price": 0.5,
+   "status": "push",
    "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -4218,8 +4298,8 @@
    "wallets": 1,
    "dollars": 669.18,
    "avg_entry_price": 0.457,
-   "current_price": 0.11,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -4410,8 +4490,8 @@
    "wallets": 1,
    "dollars": 14.4,
    "avg_entry_price": 0.36,
-   "current_price": 0.435,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -4762,8 +4842,8 @@
    "wallets": 1,
    "dollars": 5660.17,
    "avg_entry_price": 0.47,
-   "current_price": 0.265,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -5050,8 +5130,8 @@
    "wallets": 2,
    "dollars": 122084.08,
    "avg_entry_price": 0.519,
-   "current_price": 0.8,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -5290,8 +5370,8 @@
    "wallets": 4,
    "dollars": 5077.74,
    "avg_entry_price": 0.509,
-   "current_price": 0.25,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -5546,8 +5626,8 @@
    "wallets": 1,
    "dollars": 8620.19,
    "avg_entry_price": 0.691,
-   "current_price": 0.485,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -5706,8 +5786,8 @@
    "wallets": 3,
    "dollars": 82741.25,
    "avg_entry_price": 0.77,
-   "current_price": 0.74,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -5818,8 +5898,8 @@
    "wallets": 1,
    "dollars": 3.0,
    "avg_entry_price": 0.6,
-   "current_price": 0.785,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -5946,8 +6026,8 @@
    "wallets": 1,
    "dollars": 3277.15,
    "avg_entry_price": 0.36,
-   "current_price": 0.22,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -6186,8 +6266,8 @@
    "wallets": 5,
    "dollars": 73020.91,
    "avg_entry_price": 0.512,
-   "current_price": 0.39,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xf0318c32136c2db7fec88b84869aee6a1106c80c, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -6298,8 +6378,8 @@
    "wallets": 3,
    "dollars": 7845.54,
    "avg_entry_price": 0.453,
-   "current_price": 0.2,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -6490,8 +6570,8 @@
    "wallets": 1,
    "dollars": 150.26,
    "avg_entry_price": 0.5,
-   "current_price": 0.46,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -6794,8 +6874,8 @@
    "wallets": 6,
    "dollars": 514005.97,
    "avg_entry_price": 0.365,
-   "current_price": 0.425,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0x7c37b52eb226bcb9411375ec48b0169663fb6aeb, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -6842,8 +6922,8 @@
    "wallets": 5,
    "dollars": 149418.95,
    "avg_entry_price": 0.523,
-   "current_price": 0.775,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -6954,8 +7034,8 @@
    "wallets": 1,
    "dollars": 112.39,
    "avg_entry_price": 0.66,
-   "current_price": 0.5,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -7018,8 +7098,8 @@
    "wallets": 1,
    "dollars": 3388.92,
    "avg_entry_price": 0.407,
-   "current_price": 0.18,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -8063,6 +8143,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Falcons vs. Saints - Player Props",
+   "event_id": "1106036",
+   "condition_id": "0xc19040dc2952da869035d14f61e8080a28440af2c3fa9746dea47f7bbeeb17ec",
+   "market": "Bijan Robinson: Receiving Yards O/U 49.5",
+   "pick": "Under",
+   "market_type": "receiving_yards",
+   "kickoff": "2026-10-06T00:15:00+00:00",
+   "kickoff_et": "Mon 10/05 08:15 PM",
+   "wallets": 1,
+   "dollars": 85.23,
+   "avg_entry_price": 0.69,
+   "current_price": 0.835,
+   "status": "open",
+   "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
    "game": "Chargers vs. Seahawks",
    "event_id": "909447",
    "condition_id": "0x358c8ff6e9806d4ca4e44019e21122d44fa9616741a552ab8cd2a7985448873b",
@@ -8282,8 +8378,8 @@
    "wallets": 2,
    "dollars": 67.24,
    "avg_entry_price": 0.449,
-   "current_price": 0.54,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -8317,6 +8413,22 @@
    "current_price": 0.0,
    "status": "LOST",
    "wallet_list": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+  },
+  {
+   "game": "Falcons vs. Saints",
+   "event_id": "909452",
+   "condition_id": "0xfa8cb407cbd8374537ef084699d7c29d0eae5501049a072251325be268eed216",
+   "market": "Spread: Saints (-2.5)",
+   "pick": "Saints",
+   "market_type": "spreads",
+   "kickoff": "2026-10-06T00:15:00+00:00",
+   "kickoff_et": "Mon 10/05 08:15 PM",
+   "wallets": 1,
+   "dollars": 52859.87,
+   "avg_entry_price": 0.47,
+   "current_price": 0.465,
+   "status": "open",
+   "wallet_list": "0x924379a79c64b77ad5816ad362122a5f6228658e"
   },
   {
    "game": "Steelers vs. Browns",
@@ -8522,8 +8634,8 @@
    "wallets": 2,
    "dollars": 8553.9,
    "avg_entry_price": 0.497,
-   "current_price": 0.35,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -8554,8 +8666,8 @@
    "wallets": 1,
    "dollars": 25374.68,
    "avg_entry_price": 0.318,
-   "current_price": 0.515,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
   },
   {
@@ -8570,8 +8682,8 @@
    "wallets": 3,
    "dollars": 949.26,
    "avg_entry_price": 0.486,
-   "current_price": 0.34,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -8762,8 +8874,8 @@
    "wallets": 1,
    "dollars": 1417.74,
    "avg_entry_price": 0.7,
-   "current_price": 0.5,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -9242,8 +9354,8 @@
    "wallets": 2,
    "dollars": 66490.76,
    "avg_entry_price": 0.235,
-   "current_price": 0.26,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
   },
   {
@@ -9258,8 +9370,8 @@
    "wallets": 2,
    "dollars": 16046.02,
    "avg_entry_price": 0.513,
-   "current_price": 0.735,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -9338,8 +9450,8 @@
    "wallets": 4,
    "dollars": 70118.23,
    "avg_entry_price": 0.471,
-   "current_price": 0.225,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -9802,8 +9914,8 @@
    "wallets": 1,
    "dollars": 30.12,
    "avg_entry_price": 0.39,
-   "current_price": 0.5,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -9994,8 +10106,8 @@
    "wallets": 3,
    "dollars": 18083.23,
    "avg_entry_price": 0.469,
-   "current_price": 0.61,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -10063,6 +10175,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
+   "game": "Falcons vs. Saints",
+   "event_id": "909452",
+   "condition_id": "0xf1c7468c7c6b777cc189aac97ac4b3a61c6536d0555f2dd1f22290e72115f268",
+   "market": "Spread: Saints (-1.5)",
+   "pick": "Saints",
+   "market_type": "spreads",
+   "kickoff": "2026-10-06T00:15:00+00:00",
+   "kickoff_et": "Mon 10/05 08:15 PM",
+   "wallets": 2,
+   "dollars": 55714.59,
+   "avg_entry_price": 0.5,
+   "current_price": 0.495,
+   "status": "open",
+   "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0x924379a79c64b77ad5816ad362122a5f6228658e"
+  },
+  {
    "game": "Cardinals vs. Giants",
    "event_id": "909440",
    "condition_id": "0x57bcf426a651ee2983e6786703e829befe2b00456381ca68c8b89d60b467a85d",
@@ -10122,8 +10250,8 @@
    "wallets": 1,
    "dollars": 6532.65,
    "avg_entry_price": 0.493,
-   "current_price": 0.635,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -10506,8 +10634,8 @@
    "wallets": 2,
    "dollars": 1205.83,
    "avg_entry_price": 0.519,
-   "current_price": 0.82,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -10570,8 +10698,8 @@
    "wallets": 2,
    "dollars": 12171.55,
    "avg_entry_price": 0.521,
-   "current_price": 0.65,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -10799,6 +10927,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
+   "game": "Falcons vs. Saints",
+   "event_id": "909452",
+   "condition_id": "0xf1c7468c7c6b777cc189aac97ac4b3a61c6536d0555f2dd1f22290e72115f268",
+   "market": "Spread: Saints (-1.5)",
+   "pick": "Falcons",
+   "market_type": "spreads",
+   "kickoff": "2026-10-06T00:15:00+00:00",
+   "kickoff_et": "Mon 10/05 08:15 PM",
+   "wallets": 1,
+   "dollars": 1500.0,
+   "avg_entry_price": 0.5,
+   "current_price": 0.505,
+   "status": "open",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
    "game": "Titans vs. Ravens",
    "event_id": "909432",
    "condition_id": "0x8c30d9f2f615b64fce1e6c3c640d44b58ca92bcfa2d94e2bfb2b15c9fb7cb450",
@@ -10890,8 +11034,8 @@
    "wallets": 5,
    "dollars": 1242932.87,
    "avg_entry_price": 0.642,
-   "current_price": 0.575,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xf0318c32136c2db7fec88b84869aee6a1106c80c, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -10922,8 +11066,8 @@
    "wallets": 2,
    "dollars": 1412.92,
    "avg_entry_price": 0.459,
-   "current_price": 0.575,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -11162,8 +11306,8 @@
    "wallets": 1,
    "dollars": 400.0,
    "avg_entry_price": 0.505,
-   "current_price": 0.485,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -11242,8 +11386,8 @@
    "wallets": 1,
    "dollars": 268.28,
    "avg_entry_price": 0.58,
-   "current_price": 0.92,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -11514,8 +11658,8 @@
    "wallets": 1,
    "dollars": 1179.99,
    "avg_entry_price": 0.59,
-   "current_price": 0.2,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -11658,8 +11802,8 @@
    "wallets": 1,
    "dollars": 8585.8,
    "avg_entry_price": 0.56,
-   "current_price": 0.5,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -11834,8 +11978,8 @@
    "wallets": 1,
    "dollars": 439.99,
    "avg_entry_price": 0.88,
-   "current_price": 0.965,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -11914,8 +12058,8 @@
    "wallets": 1,
    "dollars": 5099.04,
    "avg_entry_price": 0.511,
-   "current_price": 0.865,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -11994,8 +12138,8 @@
    "wallets": 1,
    "dollars": 567.1,
    "avg_entry_price": 0.28,
-   "current_price": 0.135,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -12058,8 +12202,8 @@
    "wallets": 1,
    "dollars": 92.66,
    "avg_entry_price": 0.41,
-   "current_price": 0.08,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -12170,8 +12314,8 @@
    "wallets": 1,
    "dollars": 845.76,
    "avg_entry_price": 0.47,
-   "current_price": 0.135,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -12634,8 +12778,8 @@
    "wallets": 1,
    "dollars": 2167.72,
    "avg_entry_price": 0.51,
-   "current_price": 0.365,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -12666,8 +12810,8 @@
    "wallets": 1,
    "dollars": 45.14,
    "avg_entry_price": 0.51,
-   "current_price": 0.71,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -12717,6 +12861,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Falcons vs. Saints",
+   "event_id": "909452",
+   "condition_id": "0x0821f464f7a3e8cde824ad5b971008110484cbf9ea28883d936589ed22bc621a",
+   "market": "Falcons vs. Saints",
+   "pick": "Saints",
+   "market_type": "moneyline",
+   "kickoff": "2026-10-06T00:15:00+00:00",
+   "kickoff_et": "Mon 10/05 08:15 PM",
+   "wallets": 3,
+   "dollars": 140081.96,
+   "avg_entry_price": 0.53,
+   "current_price": 0.525,
+   "status": "open",
+   "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x924379a79c64b77ad5816ad362122a5f6228658e"
   },
   {
    "game": "Chargers vs. Seahawks",
@@ -12826,8 +12986,8 @@
    "wallets": 1,
    "dollars": 788.33,
    "avg_entry_price": 0.447,
-   "current_price": 0.365,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -13162,8 +13322,8 @@
    "wallets": 1,
    "dollars": 17.94,
    "avg_entry_price": 0.39,
-   "current_price": 0.08,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -13274,8 +13434,8 @@
    "wallets": 2,
    "dollars": 619.65,
    "avg_entry_price": 0.39,
-   "current_price": 0.215,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -13839,6 +13999,22 @@
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Falcons vs. Saints - Player Props",
+   "event_id": "1106036",
+   "condition_id": "0x651d81e9cdca9953900bd9157506471d2105a2ab0726d6501e92abb1068290c4",
+   "market": "Drake London: Anytime Touchdown",
+   "pick": "No",
+   "market_type": "anytime_touchdowns",
+   "kickoff": "2026-10-06T00:15:00+00:00",
+   "kickoff_et": "Mon 10/05 08:15 PM",
+   "wallets": 1,
+   "dollars": 213.5,
+   "avg_entry_price": 0.6,
+   "current_price": 0.605,
+   "status": "open",
+   "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
    "game": "Rams vs. Eagles",
    "event_id": "909441",
    "condition_id": "0xe3748f2abce950854533b444ebb2faa48da05060609f666bb78345793d482f85",
@@ -13898,8 +14074,8 @@
    "wallets": 1,
    "dollars": 571.91,
    "avg_entry_price": 0.38,
-   "current_price": 0.205,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -13914,8 +14090,8 @@
    "wallets": 3,
    "dollars": 57241.79,
    "avg_entry_price": 0.501,
-   "current_price": 0.66,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -14522,8 +14698,8 @@
    "wallets": 1,
    "dollars": 198.82,
    "avg_entry_price": 0.47,
-   "current_price": 0.25,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -14554,8 +14730,8 @@
    "wallets": 2,
    "dollars": 4284.89,
    "avg_entry_price": 0.453,
-   "current_price": 0.41,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -14650,8 +14826,8 @@
    "wallets": 1,
    "dollars": 123.53,
    "avg_entry_price": 0.61,
-   "current_price": 0.835,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -14941,6 +15117,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+  },
+  {
+   "game": "Falcons vs. Saints",
+   "event_id": "909452",
+   "condition_id": "0x0821f464f7a3e8cde824ad5b971008110484cbf9ea28883d936589ed22bc621a",
+   "market": "Falcons vs. Saints",
+   "pick": "Falcons",
+   "market_type": "moneyline",
+   "kickoff": "2026-10-06T00:15:00+00:00",
+   "kickoff_et": "Mon 10/05 08:15 PM",
+   "wallets": 3,
+   "dollars": 118640.99,
+   "avg_entry_price": 0.479,
+   "current_price": 0.475,
+   "status": "open",
+   "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x924379a79c64b77ad5816ad362122a5f6228658e"
   }
  ]
 }

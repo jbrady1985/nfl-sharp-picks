@@ -7,21 +7,21 @@
   4
  ],
  "n_games": 333,
- "n_trades": 942952,
- "n_wallets": 18263,
+ "n_trades": 943157,
+ "n_wallets": 18268,
  "n_consistent": 1724,
  "n_eligible": 875,
  "min_volume": 1000,
  "top_n": 10,
- "run_time": "2026-10-09T18:46:30.895349+00:00",
+ "run_time": "2026-10-10T17:48:07.374876+00:00",
  "top": [
   {
    "wallet": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
    "realized_pnl": 1587776.9434583357,
-   "season_buy_volume": 5712430.550792165,
-   "markets_traded": 151,
+   "season_buy_volume": 5712431.037108165,
+   "markets_traded": 152,
    "had_unmatched_sells": false,
-   "roi_pct": 27.7951202967,
+   "roi_pct": 27.7951179304,
    "name": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
    "pseudonym": "Dual-Criticism",
    "profile_url": "https://polymarket.com/profile/0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
@@ -72,11 +72,11 @@
   },
   {
    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
-   "realized_pnl": 705251.2816196218,
-   "season_buy_volume": 2636800.7920340854,
-   "markets_traded": 1128,
+   "realized_pnl": 705276.4916196218,
+   "season_buy_volume": 2638039.0220340854,
+   "markets_traded": 1131,
    "had_unmatched_sells": true,
-   "roi_pct": 26.7464756439,
+   "roi_pct": 26.7348771466,
    "name": "VeryLucky888",
    "pseudonym": "Scornful-West",
    "profile_url": "https://polymarket.com/profile/0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
@@ -302,6 +302,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Eagles vs. Jaguars",
+   "event_id": "941330",
+   "condition_id": "0x23182f463f45044ca0d3bdc792768159212048a39c87fa0c7bec76c0d84e4fbf",
+   "market": "1H Spread: Jaguars (-4.5)",
+   "pick": "Eagles",
+   "market_type": "first_half_spreads",
+   "kickoff": "2026-10-11T13:30:00+00:00",
+   "kickoff_et": "Sun 10/11 09:30 AM",
+   "wallets": 1,
+   "dollars": 1238.23,
+   "avg_entry_price": 0.49,
+   "current_price": 0.5,
+   "status": "open",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
    "game": "Buccaneers vs. Cowboys",

@@ -6,22 +6,22 @@
   3,
   4
  ],
- "n_games": 359,
- "n_trades": 1046906,
- "n_wallets": 19464,
+ "n_games": 360,
+ "n_trades": 1064096,
+ "n_wallets": 19634,
  "n_consistent": 1724,
- "n_eligible": 894,
+ "n_eligible": 899,
  "min_volume": 1000,
  "top_n": 10,
- "run_time": "2026-10-12T21:42:32.541085+00:00",
+ "run_time": "2026-10-13T02:26:05.362801+00:00",
  "top": [
   {
    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
    "realized_pnl": 1779994.002108067,
-   "season_buy_volume": 12303935.349426612,
-   "markets_traded": 164,
+   "season_buy_volume": 13045734.846823411,
+   "markets_traded": 168,
    "had_unmatched_sells": false,
-   "roi_pct": 14.4668673197,
+   "roi_pct": 13.6442601586,
    "name": "BreakTheBank",
    "pseudonym": "Homely-Gosling",
    "profile_url": "https://polymarket.com/profile/0xf0318c32136c2db7fec88b84869aee6a1106c80c"
@@ -51,10 +51,10 @@
   {
    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
    "realized_pnl": 1095636.1691111557,
-   "season_buy_volume": 15827779.693690958,
-   "markets_traded": 1252,
+   "season_buy_volume": 16303145.523793181,
+   "markets_traded": 1266,
    "had_unmatched_sells": false,
-   "roi_pct": 6.9222354008,
+   "roi_pct": 6.7203974074,
    "name": "ferrariChampions2026",
    "pseudonym": "Glaring-Salt",
    "profile_url": "https://polymarket.com/profile/0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
@@ -72,33 +72,33 @@
   },
   {
    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
-   "realized_pnl": 762042.921569648,
-   "season_buy_volume": 2798537.7866270076,
-   "markets_traded": 1256,
+   "realized_pnl": 760928.00259287,
+   "season_buy_volume": 2828381.5070929644,
+   "markets_traded": 1273,
    "had_unmatched_sells": true,
-   "roi_pct": 27.2300386727,
+   "roi_pct": 26.9033014353,
    "name": "VeryLucky888",
    "pseudonym": "Scornful-West",
    "profile_url": "https://polymarket.com/profile/0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
-   "realized_pnl": 732492.3412690974,
-   "season_buy_volume": 11077561.327977266,
+   "realized_pnl": 732490.9539872078,
+   "season_buy_volume": 11080005.054427236,
    "markets_traded": 205,
    "had_unmatched_sells": true,
-   "roi_pct": 6.6123970753,
+   "roi_pct": 6.6109261719,
    "name": "gmpm2",
    "pseudonym": "Boring-Musician",
    "profile_url": "https://polymarket.com/profile/0x67542c3219b37fd1610aad290676ff91cdbfe3bc"
   },
   {
    "wallet": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
-   "realized_pnl": 413708.3415343656,
-   "season_buy_volume": 9749040.115273114,
-   "markets_traded": 3360,
+   "realized_pnl": 412649.8143403048,
+   "season_buy_volume": 9899624.938790178,
+   "markets_traded": 3410,
    "had_unmatched_sells": true,
-   "roi_pct": 4.2435802565,
+   "roi_pct": 4.1683378602,
    "name": "",
    "pseudonym": "",
    "profile_url": "https://polymarket.com/profile/0x9b11866433281ade9f2811dbde8acdefc45f5375"
@@ -117,10 +117,10 @@
   {
    "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
    "realized_pnl": 195978.360993758,
-   "season_buy_volume": 5369428.3079712745,
-   "markets_traded": 896,
+   "season_buy_volume": 5402080.5993891535,
+   "markets_traded": 907,
    "had_unmatched_sells": true,
-   "roi_pct": 3.6498924979,
+   "roi_pct": 3.6278311178,
    "name": "takeormake",
    "pseudonym": "Scary-Fannypack",
    "profile_url": "https://polymarket.com/profile/0xa38a455bbdd4b68486548b7e19da99903f4f821d"
@@ -352,6 +352,22 @@
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x21993b50618e7d50bd6a3afaac12c88c430a90754b08875bde85064a9fbb73a7",
+   "market": "Bills vs. Rams: O/U 60.5",
+   "pick": "Over",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 4.29,
+   "avg_entry_price": 0.3,
+   "current_price": 0.165,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
    "game": "Colts vs. Steelers",
    "event_id": "941338",
    "condition_id": "0x8b4624596ee7721b3de52dfbfced334baa7ac09b44a2b1627a33931884545faa",
@@ -370,18 +386,34 @@
   {
    "game": "Bills vs. Rams",
    "event_id": "947407",
+   "condition_id": "0xe68269357fe293ec49db3eefdcc9797d0ff3b410483454b630a6c3da9b45ff1c",
+   "market": "Bills vs. Rams: O/U 40.5",
+   "pick": "Under",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 1068.34,
+   "avg_entry_price": 0.228,
+   "current_price": 0.065,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
    "condition_id": "0xe8a35179244f2da89e16739d1ecdef45e3f48e8bb7cb7b7090778f8a85fa4ac2",
    "market": "Spread: Rams (-2.5)",
    "pick": "Bills",
    "market_type": "spreads",
    "kickoff": "2026-10-13T00:15:00+00:00",
    "kickoff_et": "Mon 10/12 08:15 PM",
-   "wallets": 2,
-   "dollars": 33890.11,
-   "avg_entry_price": 0.43,
-   "current_price": 0.435,
-   "status": "open",
-   "wallet_list": "0xf0318c32136c2db7fec88b84869aee6a1106c80c, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+   "wallets": 4,
+   "dollars": 123458.61,
+   "avg_entry_price": 0.433,
+   "current_price": 0.695,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xf0318c32136c2db7fec88b84869aee6a1106c80c, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Bengals vs. Dolphins",
@@ -446,6 +478,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0xbf0135a268110e452cabdb178032457e25dff2b96ed5c32751a27cb4f21e88a8",
+   "market": "Bills vs. Rams: O/U 62.5",
+   "pick": "Under",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 2,
+   "dollars": 94.62,
+   "avg_entry_price": 0.708,
+   "current_price": 0.875,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
    "game": "Bears vs. Packers",
@@ -560,6 +608,22 @@
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x21993b50618e7d50bd6a3afaac12c88c430a90754b08875bde85064a9fbb73a7",
+   "market": "Bills vs. Rams: O/U 60.5",
+   "pick": "Under",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 1379.76,
+   "avg_entry_price": 0.545,
+   "current_price": 0.835,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
    "game": "49ers vs. Seahawks",
    "event_id": "941347",
    "condition_id": "0x81045d63a1345da1d53b00ca9afa215d4873e9e28cfac869764a0cb0b663ea84",
@@ -590,6 +654,22 @@
    "current_price": 0.0,
    "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0xb6fa568dc4b1f24d16697916eef30ef6102903a25f965a009154b5a1037a6d7f",
+   "market": "Spread: Rams (-1.5)",
+   "pick": "Rams",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 2,
+   "dollars": 370.47,
+   "avg_entry_price": 0.546,
+   "current_price": 0.315,
+   "status": "in progress",
+   "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Giants vs. Commanders",
@@ -782,6 +862,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0xedbd035d2f19ee644dd72dbe16158480e10caa598297a4973f07e21b81d988ce",
+   "market": "Bills vs. Rams: O/U 64.5",
+   "pick": "Over",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 4.2,
+   "avg_entry_price": 0.28,
+   "current_price": 0.09,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
    "game": "Giants vs. Commanders",
@@ -1688,12 +1784,12 @@
    "market_type": "moneyline",
    "kickoff": "2026-10-13T00:15:00+00:00",
    "kickoff_et": "Mon 10/12 08:15 PM",
-   "wallets": 1,
-   "dollars": 13825.07,
-   "avg_entry_price": 0.62,
-   "current_price": 0.615,
-   "status": "open",
-   "wallet_list": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+   "wallets": 4,
+   "dollars": 402156.61,
+   "avg_entry_price": 0.526,
+   "current_price": 0.405,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Buccaneers vs. Cowboys",
@@ -2848,6 +2944,38 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x81e92b7e255bb1394e5c63acc355f273693544aeebb0e0dbd66e5f204425f5fe",
+   "market": "Spread: Rams (-5.5)",
+   "pick": "Rams",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 3757.17,
+   "avg_entry_price": 0.288,
+   "current_price": 0.115,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x21ece1251c7de1ab84823624bbaa4fa279b2d648292cae1a7405259cf9b8f723",
+   "market": "Spread: Bills (-3.5)",
+   "pick": "Rams",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 2,
+   "dollars": 8377.8,
+   "avg_entry_price": 0.715,
+   "current_price": 0.565,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+  },
+  {
    "game": "Browns vs. Jets",
    "event_id": "941337",
    "condition_id": "0x9c1ea67728ddde1da59146ea2537f7a7e9230b55968bce4e360e8d8fa2a32578",
@@ -2910,6 +3038,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0xdcdb1f0b2d03b6881ec17dd20eb793bb5f515d27bc94309234d4737ea0bf94db",
+   "market": "Spread: Bills (-2.5)",
+   "pick": "Rams",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 27.44,
+   "avg_entry_price": 0.56,
+   "current_price": 0.45,
+   "status": "in progress",
+   "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
    "game": "Giants vs. Commanders",
@@ -3216,6 +3360,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0xe21e25d7f21922517147cbb740f1d18b9f6169cdab217a51dff54e251f8c36e0",
+   "market": "Spread: Bills (-4.5)",
+   "pick": "Bills",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 1454.37,
+   "avg_entry_price": 0.365,
+   "current_price": 0.395,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
    "game": "Ravens vs. Falcons",
    "event_id": "941348",
    "condition_id": "0x6f73c3856ddbf3e623bdfad7094d7180b8a94508d2c5b1c75829545af5b3ec8f",
@@ -3390,6 +3550,22 @@
    "current_price": 0.0,
    "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x30d44feb4c63ed9894e377477f41bb0df94fe7104ac723d32cd631771375e596",
+   "market": "Bills vs. Rams: O/U 46.5",
+   "pick": "Under",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 2,
+   "dollars": 7088.0,
+   "avg_entry_price": 0.423,
+   "current_price": 0.235,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Ravens vs. Falcons",
@@ -3728,6 +3904,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x3d1105334471d27658f014c17c13f57f122dbcebbeabf4e221f09c5b067c80d2",
+   "market": "Spread: Rams (-10.5)",
+   "pick": "Rams",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 108.0,
+   "avg_entry_price": 0.27,
+   "current_price": 0.024,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
    "game": "Colts vs. Steelers",
    "event_id": "941338",
    "condition_id": "0x256a79a7ff0a898c946eb5351b565d7f3eb15714ceaac4fca4a94d78c74281cf",
@@ -3848,12 +4040,12 @@
    "market_type": "spreads",
    "kickoff": "2026-10-13T00:15:00+00:00",
    "kickoff_et": "Mon 10/12 08:15 PM",
-   "wallets": 2,
-   "dollars": 248547.29,
-   "avg_entry_price": 0.48,
-   "current_price": 0.475,
-   "status": "open",
-   "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+   "wallets": 4,
+   "dollars": 253548.2,
+   "avg_entry_price": 0.479,
+   "current_price": 0.185,
+   "status": "in progress",
+   "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Colts vs. Steelers",
@@ -3888,6 +4080,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x98e62835e80d0c3997431328c53561c8474ac60e30d3f3b60af1b0bdc6b1fd25",
+   "market": "Spread: Bills (-1.5)",
+   "pick": "Bills",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 5765.82,
+   "avg_entry_price": 0.474,
+   "current_price": 0.585,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
    "game": "Giants vs. Commanders",
    "event_id": "941342",
    "condition_id": "0x850708713f2ce2694bdba69d8cfcbf8b75cc487907b191cbf64a9e3321577bcf",
@@ -3902,6 +4110,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x44c992bd4d03a02bfe524de75c63f4bccc5cbd1874dd8d905526bf991b4e5a21",
+   "market": "Bills vs. Rams: O/U 34.5",
+   "pick": "Under",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 36.48,
+   "avg_entry_price": 0.071,
+   "current_price": 0.02,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
    "game": "Buccaneers vs. Cowboys",
@@ -3976,12 +4200,12 @@
    "market_type": "spreads",
    "kickoff": "2026-10-13T00:15:00+00:00",
    "kickoff_et": "Mon 10/12 08:15 PM",
-   "wallets": 1,
-   "dollars": 90773.45,
-   "avg_entry_price": 0.27,
-   "current_price": 0.265,
-   "status": "open",
-   "wallet_list": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
+   "wallets": 3,
+   "dollars": 169920.28,
+   "avg_entry_price": 0.271,
+   "current_price": 0.435,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3, 0xf0318c32136c2db7fec88b84869aee6a1106c80c"
   },
   {
    "game": "Colts vs. Steelers",
@@ -4013,6 +4237,22 @@
    "avg_entry_price": 0.81,
    "current_price": 1.0,
    "status": "WON",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0xd78c818ca052571e74579ed59528a20e53d62da6b70532dceece6435a4f99371",
+   "market": "Bills vs. Rams: O/U 68.5",
+   "pick": "Under",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 57.75,
+   "avg_entry_price": 0.77,
+   "current_price": 0.956,
+   "status": "in progress",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -4128,6 +4368,22 @@
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
+   "game": "Bills vs. Rams - Player Props",
+   "event_id": "1151154",
+   "condition_id": "0xbcd17f91ccd0b06d57dbbf3c6798d5b58ec08a5616043a902666188630b483d4",
+   "market": "Kyren Williams: Anytime Touchdown",
+   "pick": "No",
+   "market_type": "anytime_touchdowns",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 446.19,
+   "avg_entry_price": 0.4,
+   "current_price": 0.765,
+   "status": "in progress",
+   "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
    "game": "Broncos vs. Chargers",
    "event_id": "941343",
    "condition_id": "0x228a3fff9078b47c79d26be0f2b3ed63b059cb9b58448b8c9e64d2a2267ebca0",
@@ -4224,6 +4480,22 @@
    "wallet_list": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0xedbd035d2f19ee644dd72dbe16158480e10caa598297a4973f07e21b81d988ce",
+   "market": "Bills vs. Rams: O/U 64.5",
+   "pick": "Under",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 28.29,
+   "avg_entry_price": 0.69,
+   "current_price": 0.91,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
    "game": "Ravens vs. Falcons",
    "event_id": "941348",
    "condition_id": "0x57dc639e3b91fe45e881d395037596083d67a2e263a0a582bfb2183f2e87fb52",
@@ -4318,6 +4590,22 @@
    "current_price": 0.0,
    "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x865b9433b3d9fdefefdf4e0fee1c367cf384f4ec420e817900e96d85c39bae99",
+   "market": "Bills vs. Rams: O/U 50.5",
+   "pick": "Under",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 2,
+   "dollars": 8552.52,
+   "avg_entry_price": 0.515,
+   "current_price": 0.445,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Vikings vs. Saints",
@@ -4576,6 +4864,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x98e62835e80d0c3997431328c53561c8474ac60e30d3f3b60af1b0bdc6b1fd25",
+   "market": "Spread: Bills (-1.5)",
+   "pick": "Rams",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 3,
+   "dollars": 569.19,
+   "avg_entry_price": 0.603,
+   "current_price": 0.415,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+  },
+  {
    "game": "Colts vs. Steelers",
    "event_id": "941338",
    "condition_id": "0xccc92a9f9a7d815f49f30cd1a6c4d8fde7462b28d9165e5e78cf0d361b70e044",
@@ -4608,6 +4912,22 @@
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
+   "game": "Bills vs. Rams - Player Props",
+   "event_id": "1151154",
+   "condition_id": "0x21550574de5ed506e0a9651f474642da3f4f4a097a717018fa5c30b09061a497",
+   "market": "Matthew Stafford: Passing Completions O/U 23.5",
+   "pick": "Under",
+   "market_type": "passing_completions",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 24.24,
+   "avg_entry_price": 0.46,
+   "current_price": 0.11,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
    "game": "Lions vs. Cardinals",
    "event_id": "941344",
    "condition_id": "0x7e066ac0ae9a4ebf7b8f073fdda97ac0f8c6af187bbbf0c7c95d318f828062e9",
@@ -4638,6 +4958,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x23c388c086935ef1df8b92c85f059cc29601350ee5ac65954a5a26c0e68582c6",
+   "market": "Bills vs. Rams: O/U 48.5",
+   "pick": "Over",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 2,
+   "dollars": 1388.34,
+   "avg_entry_price": 0.505,
+   "current_price": 0.645,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "49ers vs. Seahawks",
@@ -4702,6 +5038,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0xea91e845e72b310062eb0a0523ca127293e565354b0fd9eecb2030534fc802f8",
+   "market": "Spread: Rams (-13.5)",
+   "pick": "Rams",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 294.33,
+   "avg_entry_price": 0.143,
+   "current_price": 0.0175,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
    "game": "Colts vs. Steelers",
@@ -4896,6 +5248,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0xddd1a70a8231c7c5cf20cf6e53377b5fbe46c791cd8b9255c0c994d69d8e9330",
+   "market": "Bills vs. Rams: O/U 38.5",
+   "pick": "Under",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 34.82,
+   "avg_entry_price": 0.137,
+   "current_price": 0.035,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
    "game": "Broncos vs. Chargers",
    "event_id": "941343",
    "condition_id": "0xdb1184c9412156f6cd0b0a620d8ae30d11717d95f20571300a5dc3d9d42c8a0e",
@@ -4910,6 +5278,22 @@
    "current_price": 0.0,
    "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0xe5d45fa92ea4f135fe39f9994c60f894066b5df010a0d0b1dda9e1310cd679ba",
+   "market": "Bills vs. Rams: O/U 58.5",
+   "pick": "Under",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 86.83,
+   "avg_entry_price": 0.788,
+   "current_price": 0.745,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
    "game": "Lions vs. Cardinals",
@@ -5129,10 +5513,10 @@
    "kickoff": "2026-10-13T00:15:00+00:00",
    "kickoff_et": "Mon 10/12 08:15 PM",
    "wallets": 1,
-   "dollars": 385.32,
+   "dollars": 165.51,
    "avg_entry_price": 0.52,
-   "current_price": 0.54,
-   "status": "open",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -5150,6 +5534,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0xdcdb1f0b2d03b6881ec17dd20eb793bb5f515d27bc94309234d4737ea0bf94db",
+   "market": "Spread: Bills (-2.5)",
+   "pick": "Bills",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 2,
+   "dollars": 4332.38,
+   "avg_entry_price": 0.384,
+   "current_price": 0.55,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xf0318c32136c2db7fec88b84869aee6a1106c80c"
   },
   {
    "game": "Giants vs. Commanders",
@@ -5385,10 +5785,10 @@
    "kickoff": "2026-10-13T00:15:00+00:00",
    "kickoff_et": "Mon 10/12 08:15 PM",
    "wallets": 1,
-   "dollars": 621.38,
+   "dollars": 1674.83,
    "avg_entry_price": 0.2,
-   "current_price": 0.205,
-   "status": "open",
+   "current_price": 0.32,
+   "status": "in progress",
    "wallet_list": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
   },
   {
@@ -6016,6 +6416,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x865b9433b3d9fdefefdf4e0fee1c367cf384f4ec420e817900e96d85c39bae99",
+   "market": "Bills vs. Rams: O/U 50.5",
+   "pick": "Over",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 3,
+   "dollars": 1224.35,
+   "avg_entry_price": 0.497,
+   "current_price": 0.555,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+  },
+  {
    "game": "Broncos vs. Chargers",
    "event_id": "941343",
    "condition_id": "0x6da3d186554c4a991c1ebc65ee091eeed585382720cf71c37edc58e52da41f18",
@@ -6256,6 +6672,38 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Bills vs. Rams - Player Props",
+   "event_id": "1151154",
+   "condition_id": "0x3a8b8e7c89955b9b3235b24543f704d18e13600b53f5120ac3188bb00460364d",
+   "market": "Dawson Knox: Anytime Touchdown",
+   "pick": "No",
+   "market_type": "anytime_touchdowns",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 82.95,
+   "avg_entry_price": 0.84,
+   "current_price": 0.855,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0xd3ea33ecfdc12b6dd24377a6f6966a206d925a0f829a8324e558696e10a41685",
+   "market": "Spread: Rams (-8.5)",
+   "pick": "Rams",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 1323.6,
+   "avg_entry_price": 0.27,
+   "current_price": 0.04,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
    "game": "Ravens vs. Falcons",
    "event_id": "941348",
    "condition_id": "0xc31689e39156c7638015ffae0abe2634573e9eb00273106df77cce654d326658",
@@ -6384,6 +6832,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0xe65fcff4970747edfd1ab5383db5f65aa7af18f195d8366c1aa9a8c8ffe8f74c",
+   "market": "Spread: Bills (-7.5)",
+   "pick": "Bills",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 2,
+   "dollars": 856.71,
+   "avg_entry_price": 0.218,
+   "current_price": 0.235,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+  },
+  {
    "game": "Texans vs. Titans",
    "event_id": "941339",
    "condition_id": "0x91715da35a8bdff7c26300400c1e6ad4ff87921f1f35dfbaa9199efd5d00666d",
@@ -6478,6 +6942,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x23c388c086935ef1df8b92c85f059cc29601350ee5ac65954a5a26c0e68582c6",
+   "market": "Bills vs. Rams: O/U 48.5",
+   "pick": "Under",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 3,
+   "dollars": 35174.28,
+   "avg_entry_price": 0.505,
+   "current_price": 0.355,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Lions vs. Cardinals",
@@ -6768,6 +7248,22 @@
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x5a06f3f58429842a7037b971d6e826142c36432806351e807646e5a844c81b64",
+   "market": "1H Spread: Rams (-2.5)",
+   "pick": "Bills",
+   "market_type": "first_half_spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 510.93,
+   "avg_entry_price": 0.48,
+   "current_price": 1.0,
+   "status": "WON",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
    "game": "Ravens vs. Falcons - Player Props",
    "event_id": "1143813",
    "condition_id": "0xfca0cba4bde0cb753b72d9df1e328ad758402e3ba7dfe3cdda268a72229bc0d0",
@@ -6845,6 +7341,22 @@
    "avg_entry_price": 0.71,
    "current_price": 1.0,
    "status": "WON",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0xab8241c0deea82594ba132387384bd5877bbcd6c7770ff6895b6e573d3b7a362",
+   "market": "Spread: Rams (-9.5)",
+   "pick": "Rams",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 1006.61,
+   "avg_entry_price": 0.202,
+   "current_price": 0.015,
+   "status": "in progress",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -6936,12 +7448,12 @@
    "market_type": "totals",
    "kickoff": "2026-10-13T00:15:00+00:00",
    "kickoff_et": "Mon 10/12 08:15 PM",
-   "wallets": 1,
-   "dollars": 1568.52,
-   "avg_entry_price": 0.49,
-   "current_price": 0.485,
-   "status": "open",
-   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+   "wallets": 3,
+   "dollars": 4978.52,
+   "avg_entry_price": 0.479,
+   "current_price": 0.61,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Vikings vs. Saints",
@@ -6976,6 +7488,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0xd3ea33ecfdc12b6dd24377a6f6966a206d925a0f829a8324e558696e10a41685",
+   "market": "Spread: Rams (-8.5)",
+   "pick": "Bills",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 24.49,
+   "avg_entry_price": 0.79,
+   "current_price": 0.96,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
    "game": "Browns vs. Jets",
    "event_id": "941337",
    "condition_id": "0xa12adb3b84d89d0c5efa1ea15d6d28ac515984a09d864b9e0863ff63a0d1f19c",
@@ -7005,6 +7533,22 @@
    "avg_entry_price": 0.244,
    "current_price": 0.0,
    "status": "LOST",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x46b7cf7cf4449f3dbdc1df4047dfa5be5c9777ea09303a16a632a1a3183a9745",
+   "market": "Bills vs. Rams: O/U 52.5",
+   "pick": "Under",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 6291.21,
+   "avg_entry_price": 0.517,
+   "current_price": 0.555,
+   "status": "in progress",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -8328,12 +8872,12 @@
    "market_type": "spreads",
    "kickoff": "2026-10-13T00:15:00+00:00",
    "kickoff_et": "Mon 10/12 08:15 PM",
-   "wallets": 1,
-   "dollars": 300.78,
-   "avg_entry_price": 0.41,
-   "current_price": 0.415,
-   "status": "open",
-   "wallet_list": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+   "wallets": 4,
+   "dollars": 11239.53,
+   "avg_entry_price": 0.456,
+   "current_price": 0.685,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xf0318c32136c2db7fec88b84869aee6a1106c80c, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Ravens vs. Falcons",
@@ -8537,11 +9081,11 @@
    "kickoff": "2026-10-13T00:15:00+00:00",
    "kickoff_et": "Mon 10/12 08:15 PM",
    "wallets": 1,
-   "dollars": 312.4,
-   "avg_entry_price": 0.55,
-   "current_price": 0.555,
-   "status": "open",
-   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+   "dollars": 20.96,
+   "avg_entry_price": 0.72,
+   "current_price": 0.69,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
    "game": "Raiders vs. Patriots",
@@ -8574,6 +9118,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x46b7cf7cf4449f3dbdc1df4047dfa5be5c9777ea09303a16a632a1a3183a9745",
+   "market": "Bills vs. Rams: O/U 52.5",
+   "pick": "Over",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 2,
+   "dollars": 4424.02,
+   "avg_entry_price": 0.42,
+   "current_price": 0.445,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Texans vs. Titans",
@@ -8696,12 +9256,12 @@
    "market_type": "moneyline",
    "kickoff": "2026-10-13T00:15:00+00:00",
    "kickoff_et": "Mon 10/12 08:15 PM",
-   "wallets": 2,
-   "dollars": 41379.52,
-   "avg_entry_price": 0.385,
-   "current_price": 0.385,
-   "status": "open",
-   "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+   "wallets": 4,
+   "dollars": 705454.29,
+   "avg_entry_price": 0.466,
+   "current_price": 0.595,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xf0318c32136c2db7fec88b84869aee6a1106c80c, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Broncos vs. Chargers",
@@ -9472,6 +10032,22 @@
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Bills vs. Rams - Player Props",
+   "event_id": "1151154",
+   "condition_id": "0xd8799b6a98372459fe9a8c290ba13683bf23a6607f89329120dbf374d9b35b26",
+   "market": "Josh Allen: Anytime Touchdown",
+   "pick": "No",
+   "market_type": "anytime_touchdowns",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 705.0,
+   "avg_entry_price": 0.47,
+   "current_price": 0.815,
+   "status": "in progress",
+   "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
    "game": "Bills vs. Rams",
    "event_id": "947407",
    "condition_id": "0x4b57d3bf6c5410219d0bd6f7c0ad0f57e83b1c9cbc4cb850e7fb44e35b9b35f9",
@@ -9480,12 +10056,12 @@
    "market_type": "totals",
    "kickoff": "2026-10-13T00:15:00+00:00",
    "kickoff_et": "Mon 10/12 08:15 PM",
-   "wallets": 1,
-   "dollars": 10723.74,
-   "avg_entry_price": 0.49,
-   "current_price": 0.515,
-   "status": "open",
-   "wallet_list": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+   "wallets": 2,
+   "dollars": 12664.21,
+   "avg_entry_price": 0.471,
+   "current_price": 0.39,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Bears vs. Packers",
@@ -9838,6 +10414,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x74b17b7323c6a037129d0d032be998bde1db94b0e9ca7fd72cc4958efacfed29",
+   "market": "1H Spread: Rams (-1.5)",
+   "pick": "Bills",
+   "market_type": "first_half_spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 1468.75,
+   "avg_entry_price": 0.47,
+   "current_price": 1.0,
+   "status": "WON",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
    "game": "Lions vs. Cardinals",
@@ -10432,6 +11024,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
+   "game": "Bills vs. Rams - Player Props",
+   "event_id": "1151154",
+   "condition_id": "0xb4a36200e9d6535168fed08656c7978f6afb503a6bf0a6320fa8f371bd1fead9",
+   "market": "Ty Johnson: Anytime Touchdown",
+   "pick": "No",
+   "market_type": "anytime_touchdowns",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 7.33,
+   "avg_entry_price": 0.88,
+   "current_price": 0.5,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
    "game": "Ravens vs. Falcons",
    "event_id": "941348",
    "condition_id": "0x4ac49f37e5c8994d32808c807abfb5cee81a08962798531c21a8780000fb80af",
@@ -10544,6 +11152,22 @@
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x346646d5a9899e4b7ba54c01cc2e2f0262c94418803176fcd9b4d1b9b471e406",
+   "market": "Bills vs. Rams: O/U 44.5",
+   "pick": "Under",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 5819.0,
+   "avg_entry_price": 0.355,
+   "current_price": 0.15,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
    "game": "Buccaneers vs. Cowboys",
    "event_id": "925590",
    "condition_id": "0x59fe0a4c3c02923f809abb668ba5e3f782a2a852d797a008509fef9f81081c12",
@@ -10590,6 +11214,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+  },
+  {
+   "game": "Bills vs. Rams - Player Props",
+   "event_id": "1151154",
+   "condition_id": "0xb6f82a345b262411d63eb83c4660857ec670b351299ce1004bed6f7a878fad10",
+   "market": "Blake Corum: Anytime Touchdown",
+   "pick": "No",
+   "market_type": "anytime_touchdowns",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 58.94,
+   "avg_entry_price": 0.745,
+   "current_price": 0.445,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
    "game": "Broncos vs. Chargers - Player Props",
@@ -10798,6 +11438,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0xf0318c32136c2db7fec88b84869aee6a1106c80c, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0xf766fc546de7750f5f2e203a1d4050274b69c166855d27f552cbc50fd6ab2c89",
+   "market": "Spread: Rams (-4.5)",
+   "pick": "Rams",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 3,
+   "dollars": 11107.89,
+   "avg_entry_price": 0.415,
+   "current_price": 0.125,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "49ers vs. Seahawks",
@@ -11136,6 +11792,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x5a1474e8e47ee9f8a8bf3c23b98c78e61aceb7f478f9d6d06db08ba0482cfe6e",
+   "market": "Spread: Bills (-10.5)",
+   "pick": "Bills",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 8.47,
+   "avg_entry_price": 0.11,
+   "current_price": 0.141,
+   "status": "in progress",
+   "wallet_list": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+  },
+  {
    "game": "49ers vs. Seahawks",
    "event_id": "941347",
    "condition_id": "0x5794cc005b0763f151783317cfa87ed85632361fd2e1f85af9171fbdd0b9bf92",
@@ -11294,6 +11966,22 @@
    "current_price": 0.0,
    "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x81e92b7e255bb1394e5c63acc355f273693544aeebb0e0dbd66e5f204425f5fe",
+   "market": "Spread: Rams (-5.5)",
+   "pick": "Bills",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 250.09,
+   "avg_entry_price": 0.69,
+   "current_price": 0.885,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
    "game": "Buccaneers vs. Cowboys",
@@ -11504,6 +12192,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x4bc2ad1dbd51c1591b749a1a9547b8a05f448a73c8fa1916b13d09aad742c9a2",
+   "market": "Spread: Rams (-14.5)",
+   "pick": "Rams",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 142.6,
+   "avg_entry_price": 0.149,
+   "current_price": 0.0045,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
    "game": "Browns vs. Jets",
    "event_id": "941337",
    "condition_id": "0xaf1e6b6568a1129eaf47531489f61adc1c7a9011c63e14664828a8b124ed0c37",
@@ -11646,6 +12350,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Bills vs. Rams - Player Props",
+   "event_id": "1151154",
+   "condition_id": "0x074918e638bb64e01a3c781b47cbb2897880146a04bee835f5fe48f35a0d194d",
+   "market": "Dalton Kincaid: Anytime Touchdown",
+   "pick": "No",
+   "market_type": "anytime_touchdowns",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 61.29,
+   "avg_entry_price": 0.65,
+   "current_price": 0.83,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
    "game": "Texans vs. Titans",
@@ -12176,6 +12896,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0xdf1d128728641dce857f1b909f93e69f077da3fbf33f145c6b28aa6ce1f7ff93",
+   "market": "Bills 1H Team Total: O/U 12.5",
+   "pick": "Under",
+   "market_type": "first_half_team_totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 920.0,
+   "avg_entry_price": 0.46,
+   "current_price": 0.0,
+   "status": "LOST",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
    "game": "Lions vs. Cardinals",
    "event_id": "941344",
    "condition_id": "0x5b110175aa94503f5e19b7c373d95790f076bbf27ef723dad9579f1ef31e8fd5",
@@ -12272,6 +13008,22 @@
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
+   "game": "Bills vs. Rams - Player Props",
+   "event_id": "1151154",
+   "condition_id": "0x7da129381ca255ae630671f941a735eedbbbfcee8ea6df84f4383da16aacfcfd",
+   "market": "Josh Allen: Passing Completions O/U 21.5",
+   "pick": "Under",
+   "market_type": "passing_completions",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 1.92,
+   "avg_entry_price": 0.49,
+   "current_price": 0.5,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
    "game": "Colts vs. Steelers",
    "event_id": "941338",
    "condition_id": "0xbbc03a6b7b9757a858eac0d76c06403e887e4a67fdfcfe83ce8ce7d5cdc46169",
@@ -12328,12 +13080,12 @@
    "market_type": "spreads",
    "kickoff": "2026-10-13T00:15:00+00:00",
    "kickoff_et": "Mon 10/12 08:15 PM",
-   "wallets": 3,
-   "dollars": 424121.81,
+   "wallets": 6,
+   "dollars": 430199.4,
    "avg_entry_price": 0.525,
-   "current_price": 0.525,
-   "status": "open",
-   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x924379a79c64b77ad5816ad362122a5f6228658e, 0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+   "current_price": 0.815,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x924379a79c64b77ad5816ad362122a5f6228658e, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xf0318c32136c2db7fec88b84869aee6a1106c80c, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Ravens vs. Falcons",
@@ -12368,6 +13120,22 @@
    "wallet_list": "0x1d1ade627d0bb0205758580b20d808573e720df6, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x7ce6e70d6534be1aaa2a115c792df705b3009d25a63326e5b66ce5bc664c944f",
+   "market": "Bills vs. Rams: O/U 56.5",
+   "pick": "Over",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 288.12,
+   "avg_entry_price": 0.211,
+   "current_price": 0.31,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
    "game": "Ravens vs. Falcons",
    "event_id": "941348",
    "condition_id": "0x978975c7eb697f7adcad16d294743843ea726d5a08f5185df60bd8ea5f345d1f",
@@ -12398,6 +13166,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x45bb96f72c7ec9f08b78172c06b9cff927287affbb13e9d6ca2cca5f2d197a27",
+   "market": "Spread: Bills (-5.5)",
+   "pick": "Bills",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 1679.84,
+   "avg_entry_price": 0.32,
+   "current_price": 0.36,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
    "game": "Vikings vs. Saints",
@@ -13216,6 +14000,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x68d1254c935c2f85a26b209274187f03019698e8f733a79543b3fb4e160c352b",
+   "market": "Bills vs. Rams: O/U 42.5",
+   "pick": "Under",
+   "market_type": "totals",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 1783.65,
+   "avg_entry_price": 0.268,
+   "current_price": 0.115,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
    "game": "Bengals vs. Dolphins",
    "event_id": "941332",
    "condition_id": "0x9c68c8da1ea3684430862652b02ada6b6052888a8a6a82b49109a99bbbc89090",
@@ -13408,6 +14208,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x83bf7a7722b939a4057b49880393fc3e2deeeb580c4b08228c2538537ac28007",
+   "market": "Spread: Rams (-7.5)",
+   "pick": "Rams",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 5627.41,
+   "avg_entry_price": 0.258,
+   "current_price": 0.035,
+   "status": "in progress",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
    "game": "Texans vs. Titans",
    "event_id": "941339",
    "condition_id": "0x71de3c4a84c1f618efd0b97ece745e771b741c513ad06b60cd20e53e74b14514",
@@ -13502,6 +14318,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0x641b87a80afffb0b9a344ca235aa9f252acbc59fc8f1e5bebe7e87ce46cc19da",
+   "market": "1Q Spread: Rams (-2.5)",
+   "pick": "Rams",
+   "market_type": "q1_spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 2240.4,
+   "avg_entry_price": 0.396,
+   "current_price": 0.0,
+   "status": "LOST",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
    "game": "Vikings vs. Saints",
@@ -13785,10 +14617,10 @@
    "kickoff": "2026-10-13T00:15:00+00:00",
    "kickoff_et": "Mon 10/12 08:15 PM",
    "wallets": 1,
-   "dollars": 12386.51,
-   "avg_entry_price": 0.57,
-   "current_price": 0.565,
-   "status": "open",
+   "dollars": 12888.96,
+   "avg_entry_price": 0.568,
+   "current_price": 0.305,
+   "status": "in progress",
    "wallet_list": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -13981,6 +14813,22 @@
    "avg_entry_price": 0.43,
    "current_price": 1.0,
    "status": "WON",
+   "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Bills vs. Rams",
+   "event_id": "947407",
+   "condition_id": "0xfa8bad4b9781c0b755089de00e33f6f0b11b89a339062d60249bebdfb2cdd76d",
+   "market": "Spread: Rams (-6.5)",
+   "pick": "Rams",
+   "market_type": "spreads",
+   "kickoff": "2026-10-13T00:15:00+00:00",
+   "kickoff_et": "Mon 10/12 08:15 PM",
+   "wallets": 1,
+   "dollars": 2071.82,
+   "avg_entry_price": 0.37,
+   "current_price": 0.085,
+   "status": "in progress",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {

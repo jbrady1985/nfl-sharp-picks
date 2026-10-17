@@ -8,13 +8,13 @@
   5
  ],
  "n_games": 388,
- "n_trades": 1083509,
- "n_wallets": 20012,
+ "n_trades": 1083604,
+ "n_wallets": 20020,
  "n_consistent": 1057,
  "n_eligible": 714,
  "min_volume": 1000,
  "top_n": 10,
- "run_time": "2026-10-16T17:21:45.800552+00:00",
+ "run_time": "2026-10-17T16:19:39.727895+00:00",
  "top": [
   {
    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
@@ -73,11 +73,11 @@
   },
   {
    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
-   "realized_pnl": 748120.9977147635,
-   "season_buy_volume": 2835019.9592009564,
-   "markets_traded": 1280,
+   "realized_pnl": 748613.9377147636,
+   "season_buy_volume": 2838035.5105009563,
+   "markets_traded": 1282,
    "had_unmatched_sells": true,
-   "roi_pct": 26.3885619319,
+   "roi_pct": 26.3778918532,
    "name": "VeryLucky888",
    "pseudonym": "Scornful-West",
    "profile_url": "https://polymarket.com/profile/0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
@@ -415,6 +415,22 @@
    "current_price": 0.0,
    "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Texans vs. Jaguars",
+   "event_id": "982296",
+   "condition_id": "0x9406927eeeaa2953d9260d645381020e0bdb695c0ab81e00b77928a4ab67eb00",
+   "market": "Spread: Jaguars (-2.5)",
+   "pick": "Jaguars",
+   "market_type": "spreads",
+   "kickoff": "2026-10-18T13:30:00+00:00",
+   "kickoff_et": "Sun 10/18 09:30 AM",
+   "wallets": 1,
+   "dollars": 3015.55,
+   "avg_entry_price": 0.5,
+   "current_price": 0.505,
+   "status": "open",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
    "game": "Seahawks vs. Broncos",

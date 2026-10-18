@@ -23,6 +23,9 @@ st.markdown("""
 .pick-stat {font-size: 1rem; margin: .15rem 0;}
 .pick-good {color: #1a9e55; font-weight: 600;}
 .pick-warn {color: #d08a00; font-weight: 600;}
+.st-key-run_live button {font-size: 1.6rem; font-weight: 700; padding: 1.1rem 0;
+                         min-height: 4.5rem; border-radius: 12px;}
+.st-key-run_live button p {font-size: 1.6rem; font-weight: 700;}
 </style>
 """, unsafe_allow_html=True)
 
@@ -68,11 +71,31 @@ if not res:
             "start one from the GitHub **Actions** tab.")
     st.stop()
 
+# ---------------------------------------------------------------- live refresh
+if st.button("🔄  GET LATEST PICKS", type="primary", width="stretch",
+             key="run_live"):
+    with st.status("Getting the latest bets from Polymarket (about 1–2 minutes)...",
+                   expanded=True) as status:
+        try:
+            st.session_state["live"] = ns.refresh_current_week(res, log=st.write)
+            status.update(label="Picks updated.", state="complete", expanded=False)
+        except Exception as e:
+            status.update(label="Couldn't reach Polymarket. Showing the last "
+                                "saved picks instead.", state="error")
+            st.write(f"Details: {e}")
+
+live = st.session_state.get("live")
+if live and live["run_time"] == res["run_time"]:
+    res = live
+else:
+    live = None
+
 top, cons, week = res["top"], res["consensus"], res["current_week"]
 recs = ns.recommend(cons, n=3, min_net_wallets=int(min_net))
 
 # ---------------------------------------------------------------- summary
-age_hours = (datetime.now(timezone.utc) - res["run_time"]).total_seconds() / 3600
+as_of = live["live_time"] if live else res["run_time"]
+age_hours = (datetime.now(timezone.utc) - as_of).total_seconds() / 3600
 if age_hours > 24:
     st.warning(f"Data is {age_hours / 24:.1f} days old. Prices and positions "
                "may have changed.")
@@ -81,8 +104,13 @@ c1.metric("Current week", week)
 c2.metric("Wallets in NFL markets", f"{res['n_wallets']:,}")
 c3.metric(f"Bet every week 1–{week - 1}", f"{res['n_consistent']:,}")
 c4.metric("Followed wallets", len(top))
-st.caption(f"Data as of {res['run_time'].astimezone(ns.ET):%a %b %d, %I:%M %p} ET · "
-           f"{res['n_trades']:,} trades across {res['n_games']} game events")
+if live:
+    st.caption(f"Picks live as of {as_of.astimezone(ns.ET):%a %b %d, %I:%M %p} ET · "
+               f"wallet rankings from {res['run_time'].astimezone(ns.ET):%a %b %d, %I:%M %p} ET")
+else:
+    st.caption(f"Data as of {as_of.astimezone(ns.ET):%a %b %d, %I:%M %p} ET · "
+               f"{res['n_trades']:,} trades across {res['n_games']} game events · "
+               "press **Get latest picks** for up-to-the-minute bets")
 # ---------------------------------------------------------------- picks
 st.subheader(f"Recommended bets · Week {week}")
 if recs.empty:

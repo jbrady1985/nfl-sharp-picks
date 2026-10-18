@@ -401,6 +401,47 @@ def run_analysis(min_volume: float = MIN_VOLUME, top_n: int = TOP_N, log=print) 
     return res
 
 
+def refresh_current_week(res: dict, log=print) -> dict:
+    """
+    Fast live update for the app's "Get latest picks" button.
+    Keeps the followed wallets from the last full run and re-downloads only the
+    current week's open games, then rebuilds this week's positions.
+    """
+    season_start = datetime.fromisoformat(SEASON_START).replace(tzinfo=ET)
+    now = datetime.now(timezone.utc)
+
+    log("Finding this week's games...")
+    raw = fetch_nfl_events(nfl_tag_id(), season_start)
+    games, week1_start = build_game_events(raw, season_start)
+    current_week = week_of(now, week1_start)
+    week_games = [g for g in games
+                  if g["_week"] == current_week and not g.get("closed")]
+    tokens = build_token_map(week_games)
+
+    top = res["top"]
+    out = {**res, "current_week": current_week, "live_time": now}
+    if not week_games:
+        out["consensus"] = pd.DataFrame()
+        return out
+
+    log(f"Downloading latest bets on {len(week_games)} open game events...")
+    try:
+        trades = fetch_all_trades(week_games)
+    except SystemExit:                           # no trades yet this week
+        out["consensus"] = pd.DataFrame()
+        return out
+    trades = trades[trades["asset"].isin(tokens)
+                    & trades["proxyWallet"].isin(top.index)].copy()
+    if trades.empty:
+        out["consensus"] = pd.DataFrame()
+        return out
+
+    log("Building this week's picks...")
+    pos = account_positions(trades, tokens)
+    out["consensus"] = build_consensus(pos, top.index, current_week, tokens, now)
+    return out
+
+
 # ----------------------------------------------------------------------------
 # Saving / loading results (the hosted app reads results/latest.json)
 # ----------------------------------------------------------------------------

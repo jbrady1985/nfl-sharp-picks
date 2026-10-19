@@ -7,22 +7,22 @@
   4,
   5
  ],
- "n_games": 399,
- "n_trades": 1166574,
- "n_wallets": 20950,
+ "n_games": 413,
+ "n_trades": 1170819,
+ "n_wallets": 21039,
  "n_consistent": 1057,
  "n_eligible": 730,
  "min_volume": 1000,
  "top_n": 10,
- "run_time": "2026-10-19T01:06:07.611871+00:00",
+ "run_time": "2026-10-19T19:15:40.862824+00:00",
  "top": [
   {
    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-   "realized_pnl": 4330635.249811607,
-   "season_buy_volume": 17401375.400528055,
-   "markets_traded": 211,
+   "realized_pnl": 4619628.900750962,
+   "season_buy_volume": 17480842.315362994,
+   "markets_traded": 213,
    "had_unmatched_sells": false,
-   "roi_pct": 24.8867411347,
+   "roi_pct": 26.4268095176,
    "name": "BreakTheBank",
    "pseudonym": "Homely-Gosling",
    "profile_url": "https://polymarket.com/profile/0xf0318c32136c2db7fec88b84869aee6a1106c80c"
@@ -30,35 +30,24 @@
   {
    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
    "realized_pnl": 1658163.9387260256,
-   "season_buy_volume": 5391313.330153975,
-   "markets_traded": 69,
+   "season_buy_volume": 5531288.434007556,
+   "markets_traded": 70,
    "had_unmatched_sells": false,
-   "roi_pct": 30.7562153632,
+   "roi_pct": 29.9778968049,
    "name": "Kch-Temp",
    "pseudonym": "Esteemed-Cloves",
    "profile_url": "https://polymarket.com/profile/0x924379a79c64b77ad5816ad362122a5f6228658e"
   },
   {
    "wallet": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
-   "realized_pnl": 1345657.9094164476,
-   "season_buy_volume": 6689105.239789889,
-   "markets_traded": 191,
+   "realized_pnl": 1433399.0345786114,
+   "season_buy_volume": 6728105.503888903,
+   "markets_traded": 193,
    "had_unmatched_sells": false,
-   "roi_pct": 20.1171585911,
+   "roi_pct": 21.3046456205,
    "name": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
    "pseudonym": "Dual-Criticism",
    "profile_url": "https://polymarket.com/profile/0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
-  },
-  {
-   "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-   "realized_pnl": 1150818.5659825827,
-   "season_buy_volume": 18626268.293652628,
-   "markets_traded": 1489,
-   "had_unmatched_sells": false,
-   "roi_pct": 6.1784708984,
-   "name": "ferrariChampions2026",
-   "pseudonym": "Glaring-Salt",
-   "profile_url": "https://polymarket.com/profile/0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
@@ -72,45 +61,56 @@
    "profile_url": "https://polymarket.com/profile/0x7c37b52eb226bcb9411375ec48b0169663fb6aeb"
   },
   {
-   "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
-   "realized_pnl": 806521.7389682847,
-   "season_buy_volume": 3119641.0884779263,
-   "markets_traded": 1445,
-   "had_unmatched_sells": true,
-   "roi_pct": 25.8530297587,
-   "name": "VeryLucky888",
-   "pseudonym": "Scornful-West",
-   "profile_url": "https://polymarket.com/profile/0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
-  },
-  {
    "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
-   "realized_pnl": 799919.9663068096,
-   "season_buy_volume": 6756211.824674791,
-   "markets_traded": 1163,
+   "realized_pnl": 827039.501004709,
+   "season_buy_volume": 6757561.92934966,
+   "markets_traded": 1168,
    "had_unmatched_sells": true,
-   "roi_pct": 11.8397703782,
+   "roi_pct": 12.2387261804,
    "name": "takeormake",
    "pseudonym": "Scary-Fannypack",
    "profile_url": "https://polymarket.com/profile/0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
-   "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
-   "realized_pnl": 704879.1971574045,
-   "season_buy_volume": 11626006.514334232,
-   "markets_traded": 227,
+   "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
+   "realized_pnl": 790845.0163372625,
+   "season_buy_volume": 3140058.4162438973,
+   "markets_traded": 1454,
    "had_unmatched_sells": true,
-   "roi_pct": 6.062952023,
+   "roi_pct": 25.1856784653,
+   "name": "VeryLucky888",
+   "pseudonym": "Scornful-West",
+   "profile_url": "https://polymarket.com/profile/0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
+   "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+   "realized_pnl": 721671.9927298733,
+   "season_buy_volume": 18636119.073652707,
+   "markets_traded": 1492,
+   "had_unmatched_sells": false,
+   "roi_pct": 3.87243712,
+   "name": "ferrariChampions2026",
+   "pseudonym": "Glaring-Salt",
+   "profile_url": "https://polymarket.com/profile/0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+  },
+  {
+   "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+   "realized_pnl": 603558.5194581345,
+   "season_buy_volume": 11654020.490826683,
+   "markets_traded": 229,
+   "had_unmatched_sells": true,
+   "roi_pct": 5.1789725265,
    "name": "gmpm2",
    "pseudonym": "Boring-Musician",
    "profile_url": "https://polymarket.com/profile/0x67542c3219b37fd1610aad290676ff91cdbfe3bc"
   },
   {
    "wallet": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
-   "realized_pnl": 431014.5641215203,
+   "realized_pnl": 508840.1344476433,
    "season_buy_volume": 11066097.86167097,
    "markets_traded": 4047,
    "had_unmatched_sells": true,
-   "roi_pct": 3.8949101075,
+   "roi_pct": 4.59818936,
    "name": "",
    "pseudonym": "",
    "profile_url": "https://polymarket.com/profile/0x9b11866433281ade9f2811dbde8acdefc45f5375"
@@ -172,8 +172,8 @@
    "wallets": 1,
    "dollars": 933.28,
    "avg_entry_price": 0.76,
-   "current_price": 0.935,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -380,8 +380,8 @@
    "wallets": 1,
    "dollars": 305.0,
    "avg_entry_price": 0.61,
-   "current_price": 0.555,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -524,8 +524,8 @@
    "wallets": 1,
    "dollars": 7.82,
    "avg_entry_price": 0.61,
-   "current_price": 0.5,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -604,8 +604,8 @@
    "wallets": 1,
    "dollars": 461.54,
    "avg_entry_price": 0.48,
-   "current_price": 0.545,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -977,6 +977,22 @@
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
+   "game": "Commanders vs. 49ers - Player Props",
+   "event_id": "1191401",
+   "condition_id": "0xcd873616b54140776d971f3fe84d4061703f92787de80032451c362955773a5b",
+   "market": "Mike Evans: Receiving Yards O/U 59.5",
+   "pick": "Over",
+   "market_type": "receiving_yards",
+   "kickoff": "2026-10-20T00:15:00+00:00",
+   "kickoff_et": "Mon 10/19 08:15 PM",
+   "wallets": 1,
+   "dollars": 50.0,
+   "avg_entry_price": 0.5,
+   "current_price": 0.295,
+   "status": "open",
+   "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
    "game": "Jets vs. Patriots",
    "event_id": "982300",
    "condition_id": "0x714e0f348741e13e8220ccad8655fddf69d7484e0b4fec71b5356b2cd3568e53",
@@ -1020,8 +1036,8 @@
    "wallets": 2,
    "dollars": 6150.0,
    "avg_entry_price": 0.769,
-   "current_price": 0.575,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -1055,6 +1071,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Commanders vs. 49ers - Player Props",
+   "event_id": "1191401",
+   "condition_id": "0x09737f770626e677f30ee9d3d9684a2f6b1a5df83fa894b194deeda3d0e918e7",
+   "market": "Mike Evans: Anytime Touchdown",
+   "pick": "Yes",
+   "market_type": "anytime_touchdowns",
+   "kickoff": "2026-10-20T00:15:00+00:00",
+   "kickoff_et": "Mon 10/19 08:15 PM",
+   "wallets": 1,
+   "dollars": 6.0,
+   "avg_entry_price": 0.5,
+   "current_price": 0.5,
+   "status": "open",
+   "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
    "game": "Ravens vs. Browns - Player Props",
@@ -1116,8 +1148,8 @@
    "wallets": 1,
    "dollars": 9.16,
    "avg_entry_price": 0.18,
-   "current_price": 0.305,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -1132,8 +1164,8 @@
    "wallets": 1,
    "dollars": 1212.03,
    "avg_entry_price": 0.468,
-   "current_price": 0.26,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -1164,8 +1196,8 @@
    "wallets": 1,
    "dollars": 697.62,
    "avg_entry_price": 0.66,
-   "current_price": 0.86,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -1180,8 +1212,8 @@
    "wallets": 4,
    "dollars": 185770.98,
    "avg_entry_price": 0.51,
-   "current_price": 0.355,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -1196,9 +1228,25 @@
    "wallets": 1,
    "dollars": 400.0,
    "avg_entry_price": 0.8,
-   "current_price": 0.945,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Commanders vs. 49ers",
+   "event_id": "987958",
+   "condition_id": "0xfebacf62a8f4ef8d118d1954a1808cb3b50dbb746e3ceba26041b18bcd6bae00",
+   "market": "Spread: 49ers (-2.5)",
+   "pick": "Commanders",
+   "market_type": "spreads",
+   "kickoff": "2026-10-20T00:15:00+00:00",
+   "kickoff_et": "Mon 10/19 08:15 PM",
+   "wallets": 1,
+   "dollars": 980.8,
+   "avg_entry_price": 0.26,
+   "current_price": 0.27,
+   "status": "open",
+   "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
    "game": "Cardinals vs. Rams",
@@ -1345,6 +1393,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Commanders vs. 49ers - Player Props",
+   "event_id": "1191401",
+   "condition_id": "0xf7215ca868c33886ea2729a8e0087bb4dab026c1a4060948add9e4429b3cf555",
+   "market": "Christian McCaffrey: Receptions O/U 4.5",
+   "pick": "Over",
+   "market_type": "receptions",
+   "kickoff": "2026-10-20T00:15:00+00:00",
+   "kickoff_et": "Mon 10/19 08:15 PM",
+   "wallets": 1,
+   "dollars": 237.3,
+   "avg_entry_price": 0.47,
+   "current_price": 0.505,
+   "status": "open",
+   "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
    "game": "Cardinals vs. Rams",
    "event_id": "982304",
    "condition_id": "0x9d088ff359841ed894061f765cfc2db0b6a18ea1528f8c4f22865e5d73496aff",
@@ -1375,6 +1439,22 @@
    "current_price": 0.0,
    "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Commanders vs. 49ers",
+   "event_id": "987958",
+   "condition_id": "0xebacd0a96dcea2338cf7e52637ec95ec45810c0b3ab4fc56fa1b88734d0ed6c4",
+   "market": "Spread: Commanders (-3.5)",
+   "pick": "49ers",
+   "market_type": "spreads",
+   "kickoff": "2026-10-20T00:15:00+00:00",
+   "kickoff_et": "Mon 10/19 08:15 PM",
+   "wallets": 1,
+   "dollars": 8800.0,
+   "avg_entry_price": 0.88,
+   "current_price": 0.885,
+   "status": "open",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
    "game": "Bears vs. Falcons",
@@ -1868,8 +1948,8 @@
    "wallets": 1,
    "dollars": 6.06,
    "avg_entry_price": 0.61,
-   "current_price": 0.475,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -1964,8 +2044,8 @@
    "wallets": 1,
    "dollars": 31.14,
    "avg_entry_price": 0.42,
-   "current_price": 0.47,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -2028,8 +2108,8 @@
    "wallets": 1,
    "dollars": 414.82,
    "avg_entry_price": 0.736,
-   "current_price": 0.5,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -2076,8 +2156,8 @@
    "wallets": 1,
    "dollars": 339.18,
    "avg_entry_price": 0.223,
-   "current_price": 0.25,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -2140,8 +2220,8 @@
    "wallets": 1,
    "dollars": 1324.44,
    "avg_entry_price": 0.37,
-   "current_price": 0.485,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -2330,9 +2410,9 @@
    "kickoff": "2026-10-20T00:15:00+00:00",
    "kickoff_et": "Mon 10/19 08:15 PM",
    "wallets": 1,
-   "dollars": 2.45,
+   "dollars": 132.43,
    "avg_entry_price": 0.47,
-   "current_price": 0.475,
+   "current_price": 0.495,
    "status": "open",
    "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc"
   },
@@ -2508,8 +2588,8 @@
    "wallets": 1,
    "dollars": 1381.92,
    "avg_entry_price": 0.43,
-   "current_price": 0.29,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -2527,6 +2607,22 @@
    "current_price": 0.0,
    "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Commanders vs. 49ers - Player Props",
+   "event_id": "1191401",
+   "condition_id": "0x36ed8114cc24206c39e438c05453ea69d76d8b655a58393c7020f9969477aa1a",
+   "market": "Christian McCaffrey: Rushing Yards O/U 59.5",
+   "pick": "Under",
+   "market_type": "rushing_yards",
+   "kickoff": "2026-10-20T00:15:00+00:00",
+   "kickoff_et": "Mon 10/19 08:15 PM",
+   "wallets": 1,
+   "dollars": 33.92,
+   "avg_entry_price": 0.47,
+   "current_price": 0.51,
+   "status": "open",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
    "game": "Seahawks vs. Broncos",
@@ -2828,8 +2924,8 @@
    "wallets": 1,
    "dollars": 20926.23,
    "avg_entry_price": 0.48,
-   "current_price": 0.26,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
   },
   {
@@ -2844,8 +2940,8 @@
    "wallets": 1,
    "dollars": 2.04,
    "avg_entry_price": 0.04,
-   "current_price": 0.108,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -2993,6 +3089,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Commanders vs. 49ers",
+   "event_id": "987958",
+   "condition_id": "0x2284db5458b1df9f4ca0f3b7ee5bfe56c5077c1c54ce9ee15f4f9abeea8dbca8",
+   "market": "Spread: 49ers (-3.5)",
+   "pick": "Commanders",
+   "market_type": "spreads",
+   "kickoff": "2026-10-20T00:15:00+00:00",
+   "kickoff_et": "Mon 10/19 08:15 PM",
+   "wallets": 1,
+   "dollars": 28072.52,
+   "avg_entry_price": 0.34,
+   "current_price": 0.345,
+   "status": "open",
+   "wallet_list": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
+  },
+  {
    "game": "Seahawks vs. Broncos",
    "event_id": "963984",
    "condition_id": "0x01c5b244df71e3006efbc3dfa9661d29aae0a82ac3f43831e8c2ff6ac4370a0c",
@@ -3020,8 +3132,8 @@
    "wallets": 2,
    "dollars": 638.07,
    "avg_entry_price": 0.394,
-   "current_price": 0.335,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xf0318c32136c2db7fec88b84869aee6a1106c80c, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -3068,8 +3180,8 @@
    "wallets": 1,
    "dollars": 1690.8,
    "avg_entry_price": 0.63,
-   "current_price": 0.445,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -3345,6 +3457,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Commanders vs. 49ers",
+   "event_id": "987958",
+   "condition_id": "0x2284db5458b1df9f4ca0f3b7ee5bfe56c5077c1c54ce9ee15f4f9abeea8dbca8",
+   "market": "Spread: 49ers (-3.5)",
+   "pick": "49ers",
+   "market_type": "spreads",
+   "kickoff": "2026-10-20T00:15:00+00:00",
+   "kickoff_et": "Mon 10/19 08:15 PM",
+   "wallets": 1,
+   "dollars": 4950.0,
+   "avg_entry_price": 0.66,
+   "current_price": 0.655,
+   "status": "open",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
    "game": "Cowboys vs. Packers - Player Props",
    "event_id": "1185676",
    "condition_id": "0x6b49b01fc79e2ca058d8c2cb2e66eeaaa6260ffb4e71efe40b58267288fd84a8",
@@ -3356,8 +3484,8 @@
    "wallets": 1,
    "dollars": 265.09,
    "avg_entry_price": 0.356,
-   "current_price": 0.525,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -3404,8 +3532,8 @@
    "wallets": 1,
    "dollars": 285.0,
    "avg_entry_price": 0.57,
-   "current_price": 0.675,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -3423,6 +3551,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Commanders vs. 49ers",
+   "event_id": "987958",
+   "condition_id": "0xeb40ee36d8e2086a11a440af14e33e9a41b7772ed5a02168c9d5df6dd0c61d0d",
+   "market": "Commanders vs. 49ers: O/U 52.5",
+   "pick": "Under",
+   "market_type": "totals",
+   "kickoff": "2026-10-20T00:15:00+00:00",
+   "kickoff_et": "Mon 10/19 08:15 PM",
+   "wallets": 1,
+   "dollars": 139975.1,
+   "avg_entry_price": 0.53,
+   "current_price": 0.535,
+   "status": "open",
+   "wallet_list": "0x924379a79c64b77ad5816ad362122a5f6228658e"
   },
   {
    "game": "Cardinals vs. Rams",
@@ -3612,8 +3756,8 @@
    "wallets": 1,
    "dollars": 61701.03,
    "avg_entry_price": 0.54,
-   "current_price": 0.305,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
   },
   {
@@ -3628,8 +3772,8 @@
    "wallets": 5,
    "dollars": 128191.52,
    "avg_entry_price": 0.608,
-   "current_price": 0.705,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -3724,8 +3868,8 @@
    "wallets": 1,
    "dollars": 10.92,
    "avg_entry_price": 0.28,
-   "current_price": 0.41,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -4188,8 +4332,8 @@
    "wallets": 2,
    "dollars": 3.9,
    "avg_entry_price": 0.39,
-   "current_price": 0.525,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -4348,8 +4492,8 @@
    "wallets": 1,
    "dollars": 1337.42,
    "avg_entry_price": 0.242,
-   "current_price": 0.33,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -4796,8 +4940,8 @@
    "wallets": 1,
    "dollars": 2221.2,
    "avg_entry_price": 0.691,
-   "current_price": 0.725,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -4972,8 +5116,8 @@
    "wallets": 1,
    "dollars": 3269.9,
    "avg_entry_price": 0.364,
-   "current_price": 0.42,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -5052,8 +5196,8 @@
    "wallets": 1,
    "dollars": 2870.58,
    "avg_entry_price": 0.421,
-   "current_price": 0.515,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -5071,6 +5215,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+  },
+  {
+   "game": "Commanders vs. 49ers",
+   "event_id": "987958",
+   "condition_id": "0x932c1e274aa13c4ecc3c286f5fc1c135ab3e7a5c8cbc11c81c5bf5272a0f840a",
+   "market": "Commanders vs. 49ers: O/U 50.5",
+   "pick": "Under",
+   "market_type": "totals",
+   "kickoff": "2026-10-20T00:15:00+00:00",
+   "kickoff_et": "Mon 10/19 08:15 PM",
+   "wallets": 1,
+   "dollars": 1466.97,
+   "avg_entry_price": 0.45,
+   "current_price": 0.455,
+   "status": "open",
+   "wallet_list": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
   },
   {
    "game": "Bills vs. Raiders",
@@ -5135,6 +5295,22 @@
    "current_price": 0.0,
    "status": "LOST",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
+   "game": "Commanders vs. 49ers",
+   "event_id": "987958",
+   "condition_id": "0x5058920ae9bb9162b538a22ffc62ca6c628e8cf7a63947ac0c180a2907e2d0a0",
+   "market": "1H Spread: 49ers (-4.5)",
+   "pick": "Commanders",
+   "market_type": "first_half_spreads",
+   "kickoff": "2026-10-20T00:15:00+00:00",
+   "kickoff_et": "Mon 10/19 08:15 PM",
+   "wallets": 1,
+   "dollars": 1910.5,
+   "avg_entry_price": 0.494,
+   "current_price": 0.505,
+   "status": "open",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
    "game": "Ravens vs. Browns",
@@ -5420,8 +5596,8 @@
    "wallets": 3,
    "dollars": 3775.34,
    "avg_entry_price": 0.567,
-   "current_price": 0.71,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -5452,8 +5628,8 @@
    "wallets": 1,
    "dollars": 15.87,
    "avg_entry_price": 0.69,
-   "current_price": 0.825,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -5599,6 +5775,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
+   "game": "Commanders vs. 49ers",
+   "event_id": "987958",
+   "condition_id": "0xeb40ee36d8e2086a11a440af14e33e9a41b7772ed5a02168c9d5df6dd0c61d0d",
+   "market": "Commanders vs. 49ers: O/U 52.5",
+   "pick": "Over",
+   "market_type": "totals",
+   "kickoff": "2026-10-20T00:15:00+00:00",
+   "kickoff_et": "Mon 10/19 08:15 PM",
+   "wallets": 2,
+   "dollars": 2453.48,
+   "avg_entry_price": 0.464,
+   "current_price": 0.465,
+   "status": "open",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Steelers vs. Buccaneers",
@@ -6092,8 +6284,8 @@
    "wallets": 1,
    "dollars": 9.66,
    "avg_entry_price": 0.171,
-   "current_price": 0.29,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -6108,8 +6300,8 @@
    "wallets": 1,
    "dollars": 1312.5,
    "avg_entry_price": 0.42,
-   "current_price": 0.275,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -6220,8 +6412,8 @@
    "wallets": 4,
    "dollars": 7142.29,
    "avg_entry_price": 0.488,
-   "current_price": 0.625,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xf0318c32136c2db7fec88b84869aee6a1106c80c, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -6476,8 +6668,8 @@
    "wallets": 3,
    "dollars": 17638.42,
    "avg_entry_price": 0.23,
-   "current_price": 0.425,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -6844,8 +7036,8 @@
    "wallets": 1,
    "dollars": 943.92,
    "avg_entry_price": 0.6,
-   "current_price": 0.58,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -6972,8 +7164,8 @@
    "wallets": 1,
    "dollars": 1663.82,
    "avg_entry_price": 0.428,
-   "current_price": 0.485,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -7516,8 +7708,8 @@
    "wallets": 1,
    "dollars": 47.78,
    "avg_entry_price": 0.37,
-   "current_price": 0.475,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -7820,8 +8012,8 @@
    "wallets": 2,
    "dollars": 10269.74,
    "avg_entry_price": 0.444,
-   "current_price": 0.585,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -7980,8 +8172,8 @@
    "wallets": 1,
    "dollars": 64.15,
    "avg_entry_price": 0.663,
-   "current_price": 0.815,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -8092,8 +8284,8 @@
    "wallets": 3,
    "dollars": 2220.06,
    "avg_entry_price": 0.509,
-   "current_price": 0.425,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -8316,8 +8508,8 @@
    "wallets": 1,
    "dollars": 3.3,
    "avg_entry_price": 0.55,
-   "current_price": 0.455,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -8412,8 +8604,8 @@
    "wallets": 1,
    "dollars": 234.23,
    "avg_entry_price": 0.87,
-   "current_price": 0.845,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -8513,6 +8705,22 @@
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
+   "game": "Commanders vs. 49ers",
+   "event_id": "987958",
+   "condition_id": "0xe899447d5c12318b14d086ce50f9efe77ae8db953b4e937f155e68ac0de8cc82",
+   "market": "Commanders vs. 49ers",
+   "pick": "Commanders",
+   "market_type": "moneyline",
+   "kickoff": "2026-10-20T00:15:00+00:00",
+   "kickoff_et": "Mon 10/19 08:15 PM",
+   "wallets": 1,
+   "dollars": 18535.99,
+   "avg_entry_price": 0.21,
+   "current_price": 0.215,
+   "status": "open",
+   "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc"
+  },
+  {
    "game": "Seahawks vs. Broncos",
    "event_id": "963984",
    "condition_id": "0x7c61b711c2ebaf7fd3912463259cb1054dae1d58aaa3c5d6eabe22eadea8761c",
@@ -8556,9 +8764,25 @@
    "wallets": 4,
    "dollars": 210928.18,
    "avg_entry_price": 0.435,
-   "current_price": 0.295,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xf0318c32136c2db7fec88b84869aee6a1106c80c, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+  },
+  {
+   "game": "Commanders vs. 49ers - Player Props",
+   "event_id": "1191401",
+   "condition_id": "0x33ce300b5175ba379f5ffce507f85325923707bb5c2a40f2dab0a20777bf54f6",
+   "market": "Mike Evans: Receptions O/U 5.5",
+   "pick": "Over",
+   "market_type": "receptions",
+   "kickoff": "2026-10-20T00:15:00+00:00",
+   "kickoff_et": "Mon 10/19 08:15 PM",
+   "wallets": 1,
+   "dollars": 76.0,
+   "avg_entry_price": 0.38,
+   "current_price": 0.395,
+   "status": "open",
+   "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
    "game": "Bills vs. Raiders",
@@ -8892,8 +9116,8 @@
    "wallets": 4,
    "dollars": 304959.98,
    "avg_entry_price": 0.47,
-   "current_price": 0.325,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -9196,8 +9420,8 @@
    "wallets": 3,
    "dollars": 16184.27,
    "avg_entry_price": 0.522,
-   "current_price": 0.74,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -9308,8 +9532,8 @@
    "wallets": 1,
    "dollars": 2690.58,
    "avg_entry_price": 0.723,
-   "current_price": 0.875,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -9324,8 +9548,8 @@
    "wallets": 1,
    "dollars": 588.0,
    "avg_entry_price": 0.42,
-   "current_price": 0.69,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -9420,8 +9644,8 @@
    "wallets": 1,
    "dollars": 270.16,
    "avg_entry_price": 0.663,
-   "current_price": 0.76,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -9484,8 +9708,8 @@
    "wallets": 3,
    "dollars": 372046.67,
    "avg_entry_price": 0.529,
-   "current_price": 0.675,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xf0318c32136c2db7fec88b84869aee6a1106c80c"
   },
   {
@@ -9660,8 +9884,8 @@
    "wallets": 1,
    "dollars": 5.91,
    "avg_entry_price": 0.65,
-   "current_price": 0.5,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -9695,6 +9919,22 @@
    "current_price": 0.0,
    "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Commanders vs. 49ers",
+   "event_id": "987958",
+   "condition_id": "0xe899447d5c12318b14d086ce50f9efe77ae8db953b4e937f155e68ac0de8cc82",
+   "market": "Commanders vs. 49ers",
+   "pick": "49ers",
+   "market_type": "moneyline",
+   "kickoff": "2026-10-20T00:15:00+00:00",
+   "kickoff_et": "Mon 10/19 08:15 PM",
+   "wallets": 3,
+   "dollars": 89182.94,
+   "avg_entry_price": 0.78,
+   "current_price": 0.785,
+   "status": "open",
+   "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0xf0318c32136c2db7fec88b84869aee6a1106c80c, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Ravens vs. Browns",
@@ -9772,8 +10012,8 @@
    "wallets": 1,
    "dollars": 12095.97,
    "avg_entry_price": 0.638,
-   "current_price": 0.78,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -9868,8 +10108,8 @@
    "wallets": 1,
    "dollars": 5.4,
    "avg_entry_price": 0.75,
-   "current_price": 0.5,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -10060,8 +10300,8 @@
    "wallets": 1,
    "dollars": 159.25,
    "avg_entry_price": 0.132,
-   "current_price": 0.185,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -10092,8 +10332,8 @@
    "wallets": 1,
    "dollars": 2.7,
    "avg_entry_price": 0.1,
-   "current_price": 0.135,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -10209,6 +10449,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Commanders vs. 49ers",
+   "event_id": "987958",
+   "condition_id": "0xc56e3946769c5af14946fe292625624cd69a1632551573554c6b0c44a9b5ecf9",
+   "market": "Commanders vs. 49ers: 1H Moneyline",
+   "pick": "49ers",
+   "market_type": "first_half_moneyline",
+   "kickoff": "2026-10-20T00:15:00+00:00",
+   "kickoff_et": "Mon 10/19 08:15 PM",
+   "wallets": 1,
+   "dollars": 370.41,
+   "avg_entry_price": 0.68,
+   "current_price": 0.695,
+   "status": "open",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
    "game": "Cardinals vs. Rams",
    "event_id": "982304",
    "condition_id": "0x277d117af13b6e11b14c144ad43ae07824a9daaf5c83c32f5d8e34f600091f20",
@@ -10239,6 +10495,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
+   "game": "Commanders vs. 49ers",
+   "event_id": "987958",
+   "condition_id": "0x641272992e0bb5a80d5e505677f2e50d98b430b01b533a9b016de51c5699e09b",
+   "market": "Spread: 49ers (-6.5)",
+   "pick": "Commanders",
+   "market_type": "spreads",
+   "kickoff": "2026-10-20T00:15:00+00:00",
+   "kickoff_et": "Mon 10/19 08:15 PM",
+   "wallets": 1,
+   "dollars": 771.77,
+   "avg_entry_price": 0.43,
+   "current_price": 0.435,
+   "status": "open",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
    "game": "Seahawks vs. Broncos",
@@ -10348,8 +10620,8 @@
    "wallets": 2,
    "dollars": 89.6,
    "avg_entry_price": 0.506,
-   "current_price": 0.465,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -10460,8 +10732,8 @@
    "wallets": 1,
    "dollars": 215.49,
    "avg_entry_price": 0.267,
-   "current_price": 0.17,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -10636,8 +10908,8 @@
    "wallets": 2,
    "dollars": 99.54,
    "avg_entry_price": 0.556,
-   "current_price": 0.665,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -10652,8 +10924,8 @@
    "wallets": 3,
    "dollars": 677.09,
    "avg_entry_price": 0.644,
-   "current_price": 0.755,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -10764,8 +11036,8 @@
    "wallets": 2,
    "dollars": 1845.95,
    "avg_entry_price": 0.565,
-   "current_price": 0.415,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -10908,8 +11180,8 @@
    "wallets": 1,
    "dollars": 1273.46,
    "avg_entry_price": 0.75,
-   "current_price": 0.865,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -11084,8 +11356,8 @@
    "wallets": 1,
    "dollars": 1563.8,
    "avg_entry_price": 0.736,
-   "current_price": 0.665,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -11100,8 +11372,8 @@
    "wallets": 1,
    "dollars": 9.57,
    "avg_entry_price": 0.29,
-   "current_price": 0.375,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -11215,6 +11487,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+  },
+  {
+   "game": "Commanders vs. 49ers",
+   "event_id": "987958",
+   "condition_id": "0xebacd0a96dcea2338cf7e52637ec95ec45810c0b3ab4fc56fa1b88734d0ed6c4",
+   "market": "Spread: Commanders (-3.5)",
+   "pick": "Commanders",
+   "market_type": "spreads",
+   "kickoff": "2026-10-20T00:15:00+00:00",
+   "kickoff_et": "Mon 10/19 08:15 PM",
+   "wallets": 1,
+   "dollars": 10927.74,
+   "avg_entry_price": 0.12,
+   "current_price": 0.115,
+   "status": "open",
+   "wallet_list": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
   },
   {
    "game": "Chargers vs. Chiefs",
@@ -11452,8 +11740,8 @@
    "wallets": 1,
    "dollars": 35.76,
    "avg_entry_price": 0.34,
-   "current_price": 0.445,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -11516,8 +11804,8 @@
    "wallets": 2,
    "dollars": 667.16,
    "avg_entry_price": 0.619,
-   "current_price": 0.515,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -11612,8 +11900,8 @@
    "wallets": 1,
    "dollars": 414.0,
    "avg_entry_price": 0.9,
-   "current_price": 0.5,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -11641,12 +11929,12 @@
    "market_type": "totals",
    "kickoff": "2026-10-20T00:15:00+00:00",
    "kickoff_et": "Mon 10/19 08:15 PM",
-   "wallets": 1,
-   "dollars": 780.0,
-   "avg_entry_price": 0.52,
-   "current_price": 0.525,
+   "wallets": 2,
+   "dollars": 9225.39,
+   "avg_entry_price": 0.502,
+   "current_price": 0.505,
    "status": "open",
-   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Jets vs. Patriots",
@@ -11676,8 +11964,8 @@
    "wallets": 2,
    "dollars": 2451.09,
    "avg_entry_price": 0.417,
-   "current_price": 0.535,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -11852,8 +12140,8 @@
    "wallets": 2,
    "dollars": 2804.25,
    "avg_entry_price": 0.569,
-   "current_price": 0.695,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -12060,8 +12348,8 @@
    "wallets": 1,
    "dollars": 3000.0,
    "avg_entry_price": 0.24,
-   "current_price": 0.095,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -12188,8 +12476,8 @@
    "wallets": 1,
    "dollars": 54.26,
    "avg_entry_price": 0.45,
-   "current_price": 0.245,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
   },
   {
@@ -12412,8 +12700,8 @@
    "wallets": 1,
    "dollars": 6.36,
    "avg_entry_price": 0.56,
-   "current_price": 0.635,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -12492,8 +12780,8 @@
    "wallets": 2,
    "dollars": 1769.06,
    "avg_entry_price": 0.507,
-   "current_price": 0.485,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -12652,8 +12940,8 @@
    "wallets": 3,
    "dollars": 14269.32,
    "avg_entry_price": 0.531,
-   "current_price": 0.375,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -12892,8 +13180,8 @@
    "wallets": 4,
    "dollars": 373.01,
    "avg_entry_price": 0.463,
-   "current_price": 0.575,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -12940,8 +13228,8 @@
    "wallets": 4,
    "dollars": 198628.5,
    "avg_entry_price": 0.49,
-   "current_price": 0.645,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xf0318c32136c2db7fec88b84869aee6a1106c80c, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -13036,8 +13324,8 @@
    "wallets": 1,
    "dollars": 28.8,
    "avg_entry_price": 0.64,
-   "current_price": 0.85,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -13055,6 +13343,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
+   "game": "Commanders vs. 49ers",
+   "event_id": "987958",
+   "condition_id": "0x076ecdedaca96269ecaf2461c7627cac5a9ce8f5cb875fbb552abd2503f7a53b",
+   "market": "Spread: 49ers (-7.5)",
+   "pick": "49ers",
+   "market_type": "spreads",
+   "kickoff": "2026-10-20T00:15:00+00:00",
+   "kickoff_et": "Mon 10/19 08:15 PM",
+   "wallets": 1,
+   "dollars": 5.72,
+   "avg_entry_price": 0.49,
+   "current_price": 0.495,
+   "status": "open",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
    "game": "Bills vs. Raiders",
@@ -13148,8 +13452,8 @@
    "wallets": 1,
    "dollars": 23.0,
    "avg_entry_price": 0.1,
-   "current_price": 0.225,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -13244,8 +13548,8 @@
    "wallets": 1,
    "dollars": 1.8,
    "avg_entry_price": 0.36,
-   "current_price": 0.555,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -13260,8 +13564,8 @@
    "wallets": 1,
    "dollars": 2110.06,
    "avg_entry_price": 0.738,
-   "current_price": 0.905,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {

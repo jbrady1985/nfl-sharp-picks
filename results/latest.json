@@ -8,14 +8,14 @@
   5,
   6
  ],
- "n_games": 415,
+ "n_games": 437,
  "n_trades": 1175821,
  "n_wallets": 21119,
  "n_consistent": 882,
  "n_eligible": 636,
  "min_volume": 1000,
  "top_n": 10,
- "run_time": "2026-10-20T17:56:38.591422+00:00",
+ "run_time": "2026-10-21T17:59:36.238625+00:00",
  "top": [
   {
    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",

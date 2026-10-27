@@ -9,21 +9,21 @@
   6
  ],
  "n_games": 458,
- "n_trades": 1267495,
- "n_wallets": 22208,
+ "n_trades": 1271690,
+ "n_wallets": 22298,
  "n_consistent": 882,
- "n_eligible": 645,
+ "n_eligible": 647,
  "min_volume": 1000,
  "top_n": 10,
- "run_time": "2026-10-26T19:12:36.593071+00:00",
+ "run_time": "2026-10-27T00:15:16.197500+00:00",
  "top": [
   {
    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-   "realized_pnl": 5175381.641459482,
-   "season_buy_volume": 20512637.082026508,
-   "markets_traded": 237,
+   "realized_pnl": 5175381.64145763,
+   "season_buy_volume": 21451080.712620676,
+   "markets_traded": 245,
    "had_unmatched_sells": false,
-   "roi_pct": 25.230211117,
+   "roi_pct": 24.1264377809,
    "name": "BreakTheBank",
    "pseudonym": "Homely-Gosling",
    "profile_url": "https://polymarket.com/profile/0xf0318c32136c2db7fec88b84869aee6a1106c80c"
@@ -31,21 +31,21 @@
   {
    "wallet": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
    "realized_pnl": 1467590.6402557103,
-   "season_buy_volume": 7319505.940944657,
-   "markets_traded": 216,
+   "season_buy_volume": 7414782.59611359,
+   "markets_traded": 217,
    "had_unmatched_sells": false,
-   "roi_pct": 20.0504057527,
+   "roi_pct": 19.7927669656,
    "name": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
    "pseudonym": "Dual-Criticism",
    "profile_url": "https://polymarket.com/profile/0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
   },
   {
    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
-   "realized_pnl": 1188077.045938447,
-   "season_buy_volume": 13019286.888529083,
-   "markets_traded": 253,
+   "realized_pnl": 1188077.0843299269,
+   "season_buy_volume": 13363198.303013526,
+   "markets_traded": 254,
    "had_unmatched_sells": true,
-   "roi_pct": 9.1255155226,
+   "roi_pct": 8.8906641763,
    "name": "gmpm2",
    "pseudonym": "Boring-Musician",
    "profile_url": "https://polymarket.com/profile/0x67542c3219b37fd1610aad290676ff91cdbfe3bc"
@@ -53,21 +53,21 @@
   {
    "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
    "realized_pnl": 886283.3640497557,
-   "season_buy_volume": 7366475.107348741,
-   "markets_traded": 1390,
+   "season_buy_volume": 7368592.21182172,
+   "markets_traded": 1392,
    "had_unmatched_sells": true,
-   "roi_pct": 12.0313087485,
+   "roi_pct": 12.0278519773,
    "name": "takeormake",
    "pseudonym": "Scary-Fannypack",
    "profile_url": "https://polymarket.com/profile/0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
-   "realized_pnl": 792844.1881412189,
-   "season_buy_volume": 3540174.9350689077,
-   "markets_traded": 1644,
+   "realized_pnl": 794758.1969812298,
+   "season_buy_volume": 3548601.461402969,
+   "markets_traded": 1661,
    "had_unmatched_sells": true,
-   "roi_pct": 22.3956217612,
+   "roi_pct": 22.3963779992,
    "name": "VeryLucky888",
    "pseudonym": "Scornful-West",
    "profile_url": "https://polymarket.com/profile/0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
@@ -86,10 +86,10 @@
   {
    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
    "realized_pnl": 624680.3096945419,
-   "season_buy_volume": 7145276.2867944585,
-   "markets_traded": 56,
+   "season_buy_volume": 7251785.40907442,
+   "markets_traded": 57,
    "had_unmatched_sells": false,
-   "roi_pct": 8.742563403,
+   "roi_pct": 8.6141587824,
    "name": "Sassy-Bucket",
    "pseudonym": "Unwieldy-Collagen",
    "profile_url": "https://polymarket.com/profile/0x4bff30af91642dc7d2b19a8664378fe55c45fc26"
@@ -97,10 +97,10 @@
   {
    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
    "realized_pnl": 518686.0510742201,
-   "season_buy_volume": 20159277.64755982,
-   "markets_traded": 1685,
+   "season_buy_volume": 20172998.81195946,
+   "markets_traded": 1688,
    "had_unmatched_sells": false,
-   "roi_pct": 2.5729396665,
+   "roi_pct": 2.5711896179,
    "name": "ferrariChampions2026",
    "pseudonym": "Glaring-Salt",
    "profile_url": "https://polymarket.com/profile/0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
@@ -119,10 +119,10 @@
   {
    "wallet": "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f",
    "realized_pnl": 257445.9077462191,
-   "season_buy_volume": 1481364.025941781,
-   "markets_traded": 113,
+   "season_buy_volume": 1492425.221941781,
+   "markets_traded": 115,
    "had_unmatched_sells": true,
-   "roi_pct": 17.3789766214,
+   "roi_pct": 17.2501713293,
    "name": "bands1",
    "pseudonym": "Automatic-Kind",
    "profile_url": "https://polymarket.com/profile/0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f"
@@ -160,6 +160,22 @@
    "current_price": 0.0,
    "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+  },
+  {
+   "game": "Cowboys vs. Eagles - Player Props",
+   "event_id": "1232594",
+   "condition_id": "0x52952367a4ab269ee722b449dbf71ec8f408edaf66fcf907015c67b486234ed0",
+   "market": "CeeDee Lamb: Anytime Touchdown",
+   "pick": "No",
+   "market_type": "anytime_touchdowns",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 51.95,
+   "avg_entry_price": 0.57,
+   "current_price": 0.59,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
    "game": "Giants vs. Texans",
@@ -541,8 +557,8 @@
    "wallets": 1,
    "dollars": 729.24,
    "avg_entry_price": 0.45,
-   "current_price": 0.4375,
-   "status": "open",
+   "current_price": 0.4455,
+   "status": "in progress",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -1266,6 +1282,22 @@
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
+   "game": "Cowboys vs. Eagles - Player Props",
+   "event_id": "1232594",
+   "condition_id": "0xacfc8b97767482fe8756a8f7bc8c6f7830d732237cb1176c1d7f3735881a0021",
+   "market": "Dameon Pierce: Rushing Yards O/U 19.5",
+   "pick": "Under",
+   "market_type": "rushing_yards",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 20.72,
+   "avg_entry_price": 0.48,
+   "current_price": 0.74,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
    "game": "Buccaneers vs. Panthers",
    "event_id": "1022438",
    "condition_id": "0x620101e2a4f58b040246023a773c3060a0aaea30949075081b967e3eb7488d48",
@@ -1535,6 +1567,22 @@
    "avg_entry_price": 0.81,
    "current_price": 1.0,
    "status": "WON",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
+   "game": "Cowboys vs. Eagles - Player Props",
+   "event_id": "1232594",
+   "condition_id": "0x364f758977924b9b18fc58077a3c2358d440e1ef733140bab61398879c46b7e1",
+   "market": "Hollywood Brown: Receptions O/U 1.5",
+   "pick": "Under",
+   "market_type": "receptions",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 14.73,
+   "avg_entry_price": 0.6,
+   "current_price": 0.805,
+   "status": "in progress",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -1826,6 +1874,22 @@
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
+   "game": "Cowboys vs. Eagles - Player Props",
+   "event_id": "1232594",
+   "condition_id": "0xef34e497d7be2b2190ce224e85647e34f63d3b760bfd542a4821881d1a546ebf",
+   "market": "Tanner McKee: Passing Touchdowns O/U 1.5",
+   "pick": "Under",
+   "market_type": "passing_touchdowns",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 723.72,
+   "avg_entry_price": 0.6,
+   "current_price": 0.635,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
    "game": "Chiefs vs. Seahawks - Player Props",
    "event_id": "1226957",
    "condition_id": "0xc7f1b1d52cde5ee8ba0a76c08b34ef9587729c06fa3384083a5810f30610cc30",
@@ -1839,6 +1903,22 @@
    "avg_entry_price": 0.57,
    "current_price": 0.0,
    "status": "LOST",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
+   "game": "Cowboys vs. Eagles - Player Props",
+   "event_id": "1232594",
+   "condition_id": "0x3337ac382b234a026bb3e264b196e98598d247182bb86611d76934393cd94cef",
+   "market": "Brevyn Spann-Ford: Anytime Touchdown",
+   "pick": "No",
+   "market_type": "anytime_touchdowns",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 1093.85,
+   "avg_entry_price": 0.881,
+   "current_price": 0.885,
+   "status": "in progress",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -2141,8 +2221,8 @@
    "wallets": 1,
    "dollars": 5.71,
    "avg_entry_price": 0.16,
-   "current_price": 0.17,
-   "status": "open",
+   "current_price": 0.15,
+   "status": "in progress",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -2173,8 +2253,8 @@
    "wallets": 1,
    "dollars": 75.85,
    "avg_entry_price": 0.14,
-   "current_price": 0.15,
-   "status": "open",
+   "current_price": 0.125,
+   "status": "in progress",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -2586,12 +2666,12 @@
    "market_type": "moneyline",
    "kickoff": "2026-10-27T00:15:00+00:00",
    "kickoff_et": "Mon 10/26 08:15 PM",
-   "wallets": 2,
-   "dollars": 119871.35,
+   "wallets": 3,
+   "dollars": 142858.01,
    "avg_entry_price": 0.33,
    "current_price": 0.335,
-   "status": "open",
-   "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
+   "status": "in progress",
+   "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Steelers vs. Saints",
@@ -2781,8 +2861,8 @@
    "wallets": 1,
    "dollars": 47.37,
    "avg_entry_price": 0.24,
-   "current_price": 0.255,
-   "status": "open",
+   "current_price": 0.245,
+   "status": "in progress",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -3611,11 +3691,11 @@
    "kickoff": "2026-10-27T00:15:00+00:00",
    "kickoff_et": "Mon 10/26 08:15 PM",
    "wallets": 2,
-   "dollars": 72215.46,
-   "avg_entry_price": 0.481,
-   "current_price": 0.485,
-   "status": "open",
-   "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+   "dollars": 605122.03,
+   "avg_entry_price": 0.485,
+   "current_price": 0.495,
+   "status": "in progress",
+   "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0xf0318c32136c2db7fec88b84869aee6a1106c80c"
   },
   {
    "game": "Cowboys vs. Eagles",
@@ -3626,12 +3706,12 @@
    "market_type": "spreads",
    "kickoff": "2026-10-27T00:15:00+00:00",
    "kickoff_et": "Mon 10/26 08:15 PM",
-   "wallets": 1,
-   "dollars": 34288.27,
-   "avg_entry_price": 0.51,
-   "current_price": 0.515,
-   "status": "open",
-   "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc"
+   "wallets": 3,
+   "dollars": 228009.92,
+   "avg_entry_price": 0.515,
+   "current_price": 0.505,
+   "status": "in progress",
+   "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
   },
   {
    "game": "Colts vs. Vikings",
@@ -3648,6 +3728,22 @@
    "current_price": 0.0,
    "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Cowboys vs. Eagles",
+   "event_id": "1027875",
+   "condition_id": "0xdc3bcaa542d682ecbc81a07c2308cd3c46a4c18d06cda17d062ca1cc23b26511",
+   "market": "Spread: Cowboys (-3.5)",
+   "pick": "Cowboys",
+   "market_type": "spreads",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 261220.36,
+   "avg_entry_price": 0.53,
+   "current_price": 0.525,
+   "status": "in progress",
+   "wallet_list": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
   },
   {
    "game": "Colts vs. Vikings",
@@ -3946,12 +4042,12 @@
    "market_type": "moneyline",
    "kickoff": "2026-10-27T00:15:00+00:00",
    "kickoff_et": "Mon 10/26 08:15 PM",
-   "wallets": 1,
-   "dollars": 16901.05,
-   "avg_entry_price": 0.67,
+   "wallets": 3,
+   "dollars": 99093.22,
+   "avg_entry_price": 0.662,
    "current_price": 0.665,
-   "status": "open",
-   "wallet_list": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+   "status": "in progress",
+   "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0xf0318c32136c2db7fec88b84869aee6a1106c80c, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Dolphins vs. Jets",
@@ -4080,6 +4176,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+  },
+  {
+   "game": "Cowboys vs. Eagles - Player Props",
+   "event_id": "1232594",
+   "condition_id": "0x1f572df8311b640d37b3430df2c47379515e01c1ede4ce181a8b0a9bf4d822fc",
+   "market": "Dallas Goedert: Receiving Yards O/U 49.5",
+   "pick": "Under",
+   "market_type": "receiving_yards",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 940.0,
+   "avg_entry_price": 0.47,
+   "current_price": 0.48,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
    "game": "Chiefs vs. Seahawks",
@@ -4274,6 +4386,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
+   "game": "Cowboys vs. Eagles - Player Props",
+   "event_id": "1232594",
+   "condition_id": "0x95b10f3fb84304552283e64cc6d631c65d0b798dd5e2ebaaa7fce7bf5b7cfcc6",
+   "market": "Darius Cooper: Anytime Touchdown",
+   "pick": "No",
+   "market_type": "anytime_touchdowns",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 970.88,
+   "avg_entry_price": 0.74,
+   "current_price": 0.87,
+   "status": "in progress",
+   "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
    "game": "Broncos vs. Cardinals",
    "event_id": "1022447",
    "condition_id": "0x9e8a17ca34c4fd2090c97e5f5096bd7394b17db71f8aad17dfc2e8dd97732bc4",
@@ -4378,12 +4506,12 @@
    "market_type": "totals",
    "kickoff": "2026-10-27T00:15:00+00:00",
    "kickoff_et": "Mon 10/26 08:15 PM",
-   "wallets": 1,
-   "dollars": 502.06,
-   "avg_entry_price": 0.473,
-   "current_price": 0.4825,
-   "status": "open",
-   "wallet_list": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+   "wallets": 3,
+   "dollars": 207257.03,
+   "avg_entry_price": 0.471,
+   "current_price": 0.4735,
+   "status": "in progress",
+   "wallet_list": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26, 0xf0318c32136c2db7fec88b84869aee6a1106c80c, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Buccaneers vs. Panthers",
@@ -4514,6 +4642,22 @@
    "wallet_list": "0x924379a79c64b77ad5816ad362122a5f6228658e, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
+   "game": "Cowboys vs. Eagles - Player Props",
+   "event_id": "1232594",
+   "condition_id": "0xd2fdce6c8b63cd7317f64f16ef0f17443049b4be5cf46364c96da0a2dacafdd3",
+   "market": "Saquon Barkley: Anytime Touchdown",
+   "pick": "No",
+   "market_type": "anytime_touchdowns",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 35.2,
+   "avg_entry_price": 0.55,
+   "current_price": 0.775,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
    "game": "Steelers vs. Saints",
    "event_id": "1022434",
    "condition_id": "0x4d06c774a9a862434d9d9b75648745c05c2edc505505059f17c96e50b85d658a",
@@ -4608,6 +4752,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Cowboys vs. Eagles",
+   "event_id": "1027875",
+   "condition_id": "0x939516382f03ff9ed482e5b697b5cd8f5ee0bc8310547680259ab469d2c07532",
+   "market": "Spread: Cowboys (-7.5)",
+   "pick": "Cowboys",
+   "market_type": "spreads",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 707.72,
+   "avg_entry_price": 0.37,
+   "current_price": 0.375,
+   "status": "in progress",
+   "wallet_list": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
   },
   {
    "game": "Giants vs. Texans",
@@ -5021,8 +5181,8 @@
    "wallets": 1,
    "dollars": 27.79,
    "avg_entry_price": 0.21,
-   "current_price": 0.215,
-   "status": "open",
+   "current_price": 0.21,
+   "status": "in progress",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -5230,7 +5390,7 @@
    "dollars": 7840.57,
    "avg_entry_price": 0.699,
    "current_price": 0.695,
-   "status": "open",
+   "status": "in progress",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -5531,10 +5691,10 @@
    "kickoff": "2026-10-27T00:15:00+00:00",
    "kickoff_et": "Mon 10/26 08:15 PM",
    "wallets": 2,
-   "dollars": 21080.25,
+   "dollars": 21267.48,
    "avg_entry_price": 0.299,
    "current_price": 0.305,
-   "status": "open",
+   "status": "in progress",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
   },
   {
@@ -5547,10 +5707,10 @@
    "kickoff": "2026-10-27T00:15:00+00:00",
    "kickoff_et": "Mon 10/26 08:15 PM",
    "wallets": 1,
-   "dollars": 41.61,
+   "dollars": 6271.18,
    "avg_entry_price": 0.57,
    "current_price": 0.575,
-   "status": "open",
+   "status": "in progress",
    "wallet_list": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
   },
   {
@@ -5794,6 +5954,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
+   "game": "Cowboys vs. Eagles",
+   "event_id": "1027875",
+   "condition_id": "0x33d4e3cf5f0ff811d6ada30e4c18f08ec73dbcf0a306f0739831708b7fc50c45",
+   "market": "Spread: Cowboys (-20.5)",
+   "pick": "Cowboys",
+   "market_type": "spreads",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 60.01,
+   "avg_entry_price": 0.12,
+   "current_price": 0.12,
+   "status": "in progress",
+   "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
    "game": "49ers vs. Falcons",
    "event_id": "1022435",
    "condition_id": "0x869d08ba3b230e888c92964e7a8e484917b70db18ee23c856a731f34ba42a8b7",
@@ -5834,12 +6010,12 @@
    "market_type": "totals",
    "kickoff": "2026-10-27T00:15:00+00:00",
    "kickoff_et": "Mon 10/26 08:15 PM",
-   "wallets": 2,
-   "dollars": 1997.43,
-   "avg_entry_price": 0.517,
-   "current_price": 0.5175,
-   "status": "open",
-   "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f"
+   "wallets": 3,
+   "dollars": 138280.56,
+   "avg_entry_price": 0.53,
+   "current_price": 0.5265,
+   "status": "in progress",
+   "wallet_list": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc, 0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Steelers vs. Saints",
@@ -6477,8 +6653,8 @@
    "wallets": 1,
    "dollars": 31.16,
    "avg_entry_price": 0.46,
-   "current_price": 0.475,
-   "status": "open",
+   "current_price": 0.47,
+   "status": "in progress",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -6523,10 +6699,10 @@
    "kickoff": "2026-10-27T00:15:00+00:00",
    "kickoff_et": "Mon 10/26 08:15 PM",
    "wallets": 1,
-   "dollars": 246.5,
+   "dollars": 87.8,
    "avg_entry_price": 0.58,
-   "current_price": 0.575,
-   "status": "open",
+   "current_price": 0.585,
+   "status": "in progress",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -7083,10 +7259,10 @@
    "kickoff": "2026-10-27T00:15:00+00:00",
    "kickoff_et": "Mon 10/26 08:15 PM",
    "wallets": 1,
-   "dollars": 91.18,
+   "dollars": 990.17,
    "avg_entry_price": 0.34,
-   "current_price": 0.345,
-   "status": "open",
+   "current_price": 0.335,
+   "status": "in progress",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -7933,8 +8109,8 @@
    "wallets": 1,
    "dollars": 11849.99,
    "avg_entry_price": 0.79,
-   "current_price": 0.785,
-   "status": "open",
+   "current_price": 0.775,
+   "status": "in progress",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -7984,6 +8160,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Cowboys vs. Eagles",
+   "event_id": "1027875",
+   "condition_id": "0xe028e01dc6dfa19305020a4a367717a70f7a2705294bcc7286c04a32369984fa",
+   "market": "Cowboys vs. Eagles: O/U 48.5",
+   "pick": "Over",
+   "market_type": "totals",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 676.71,
+   "avg_entry_price": 0.358,
+   "current_price": 0.359,
+   "status": "in progress",
+   "wallet_list": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
   },
   {
    "game": "Rams vs. Raiders",
@@ -8464,6 +8656,22 @@
    "current_price": 0.0,
    "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
+   "game": "Cowboys vs. Eagles - Player Props",
+   "event_id": "1232594",
+   "condition_id": "0x7851e90b75e548fc00e836b06c8ea99bdc0fc0748bc7f8c35e23393930322e55",
+   "market": "Dameon Pierce: Anytime Touchdown",
+   "pick": "No",
+   "market_type": "anytime_touchdowns",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 448.43,
+   "avg_entry_price": 0.86,
+   "current_price": 0.86,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
    "game": "Bengals vs. Ravens",
@@ -9074,6 +9282,22 @@
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
+   "game": "Cowboys vs. Eagles - Player Props",
+   "event_id": "1232594",
+   "condition_id": "0xba14af6edf7e4d2e5914cb6d870afee78ed9fc1f8c243f697964f46cbfb5ac76",
+   "market": "Ryan Flournoy: Anytime Touchdown",
+   "pick": "No",
+   "market_type": "anytime_touchdowns",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 8.88,
+   "avg_entry_price": 0.79,
+   "current_price": 0.895,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
    "game": "Packers vs. Lions",
    "event_id": "1022448",
    "condition_id": "0xe82432d3b5c79acff125bc4e4eb9361651826e583fa24719826a7e1c97e731f8",
@@ -9163,10 +9387,10 @@
    "kickoff": "2026-10-27T00:15:00+00:00",
    "kickoff_et": "Mon 10/26 08:15 PM",
    "wallets": 1,
-   "dollars": 8333.83,
-   "avg_entry_price": 0.201,
-   "current_price": 0.215,
-   "status": "open",
+   "dollars": 17883.17,
+   "avg_entry_price": 0.21,
+   "current_price": 0.225,
+   "status": "in progress",
    "wallet_list": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
   },
   {
@@ -9282,6 +9506,22 @@
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
+   "game": "Cowboys vs. Eagles",
+   "event_id": "1027875",
+   "condition_id": "0x6d2731b2d8669145267138f85da5f45e1f11638251d9c4b657bf92525a72bf10",
+   "market": "Spread: Cowboys (-6.5)",
+   "pick": "Cowboys",
+   "market_type": "spreads",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 2974.6,
+   "avg_entry_price": 0.42,
+   "current_price": 0.425,
+   "status": "in progress",
+   "wallet_list": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+  },
+  {
    "game": "Steelers vs. Saints",
    "event_id": "1022434",
    "condition_id": "0x983ecd32410a262cfc48fca74b31672f1d437ed9552cf7361e60660324573a2f",
@@ -9344,6 +9584,22 @@
    "current_price": 0.0,
    "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Cowboys vs. Eagles",
+   "event_id": "1027875",
+   "condition_id": "0x9b145abda27b5a2b44924194c6e56a9f53d7c366d9cd42d38a15159a46d8b13d",
+   "market": "Cowboys vs. Eagles: O/U 42.5",
+   "pick": "Over",
+   "market_type": "totals",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 8890.42,
+   "avg_entry_price": 0.554,
+   "current_price": 0.5545,
+   "status": "in progress",
+   "wallet_list": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
   },
   {
    "game": "Giants vs. Texans",
@@ -9520,6 +9776,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
+  },
+  {
+   "game": "Cowboys vs. Eagles - Player Props",
+   "event_id": "1232594",
+   "condition_id": "0xa693ec227927d87bb658634f1dc3f152db02f37460129c25a5a943ccd7a2f13f",
+   "market": "Tyler Goodson: Anytime Touchdown",
+   "pick": "No",
+   "market_type": "anytime_touchdowns",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 1221.75,
+   "avg_entry_price": 0.92,
+   "current_price": 0.96,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
    "game": "Giants vs. Texans",
@@ -9824,6 +10096,22 @@
    "current_price": 0.0,
    "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
+  },
+  {
+   "game": "Cowboys vs. Eagles - Player Props",
+   "event_id": "1232594",
+   "condition_id": "0xfce53c9a72101871d4226a919a0da13ea9504de7f5462f5a1fcc52c852d313c1",
+   "market": "George Pickens: Anytime Touchdown",
+   "pick": "No",
+   "market_type": "anytime_touchdowns",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 3.2,
+   "avg_entry_price": 0.64,
+   "current_price": 0.715,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
    "game": "Chiefs vs. Seahawks",
@@ -10187,10 +10475,10 @@
    "kickoff": "2026-10-27T00:15:00+00:00",
    "kickoff_et": "Mon 10/26 08:15 PM",
    "wallets": 1,
-   "dollars": 717.54,
+   "dollars": 5733.24,
    "avg_entry_price": 0.53,
    "current_price": 0.535,
-   "status": "open",
+   "status": "in progress",
    "wallet_list": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
   },
   {
@@ -10338,6 +10626,22 @@
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
+   "game": "Cowboys vs. Eagles - Player Props",
+   "event_id": "1232594",
+   "condition_id": "0xb2221564b39ca83666d4b4fbf64059462c9c9df9e1e0c0afbb6ddd30d87a2f74",
+   "market": "Dak Prescott: Passing Yards O/U 249.5",
+   "pick": "Under",
+   "market_type": "passing_yards",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 352.8,
+   "avg_entry_price": 0.4,
+   "current_price": 0.435,
+   "status": "in progress",
+   "wallet_list": "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f"
+  },
+  {
    "game": "Dolphins vs. Jets",
    "event_id": "1022443",
    "condition_id": "0x8ea63c203ee491f2ca53b8e4a33fca9215693e9f4108bdc2f26f41c0816e223d",
@@ -10474,12 +10778,12 @@
    "market_type": "spreads",
    "kickoff": "2026-10-27T00:15:00+00:00",
    "kickoff_et": "Mon 10/26 08:15 PM",
-   "wallets": 2,
-   "dollars": 7013.84,
-   "avg_entry_price": 0.467,
+   "wallets": 1,
+   "dollars": 26853.69,
+   "avg_entry_price": 0.46,
    "current_price": 0.465,
-   "status": "open",
-   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+   "status": "in progress",
+   "wallet_list": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
   },
   {
    "game": "Dolphins vs. Jets",
@@ -10496,6 +10800,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
+   "game": "Cowboys vs. Eagles",
+   "event_id": "1027875",
+   "condition_id": "0x88070cb2345bfdaa5aba99520d88e814773231da7be780d5914fac59a1807fdd",
+   "market": "Cowboys vs. Eagles: 1H O/U 22.5",
+   "pick": "Under",
+   "market_type": "first_half_totals",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 88.4,
+   "avg_entry_price": 0.52,
+   "current_price": 0.53,
+   "status": "in progress",
+   "wallet_list": "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f"
   },
   {
    "game": "Browns vs. Titans",
@@ -10756,18 +11076,34 @@
   {
    "game": "Cowboys vs. Eagles",
    "event_id": "1027875",
+   "condition_id": "0xd067aebf8b0a5cfbeb7f9f58da5e76c3f057a177b18c829fcdba6dcdaf1362ca",
+   "market": "Cowboys vs. Eagles: O/U 50.5",
+   "pick": "Under",
+   "market_type": "totals",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 619.95,
+   "avg_entry_price": 0.701,
+   "current_price": 0.6995,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
+   "game": "Cowboys vs. Eagles",
+   "event_id": "1027875",
    "condition_id": "0xdc3bcaa542d682ecbc81a07c2308cd3c46a4c18d06cda17d062ca1cc23b26511",
    "market": "Spread: Cowboys (-3.5)",
    "pick": "Eagles",
    "market_type": "spreads",
    "kickoff": "2026-10-27T00:15:00+00:00",
    "kickoff_et": "Mon 10/26 08:15 PM",
-   "wallets": 2,
-   "dollars": 6256.11,
-   "avg_entry_price": 0.46,
-   "current_price": 0.465,
-   "status": "open",
-   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
+   "wallets": 3,
+   "dollars": 13672.89,
+   "avg_entry_price": 0.466,
+   "current_price": 0.475,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "game": "Giants vs. Texans",
@@ -10848,6 +11184,22 @@
    "current_price": 1.0,
    "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
+  },
+  {
+   "game": "Cowboys vs. Eagles - Player Props",
+   "event_id": "1232594",
+   "condition_id": "0x0fab6a2a1c4f0039966130d9b47b3a4fddd316eb8af924169905b2ae68d33f28",
+   "market": "Jake Ferguson: Anytime Touchdown",
+   "pick": "No",
+   "market_type": "anytime_touchdowns",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 5.14,
+   "avg_entry_price": 0.75,
+   "current_price": 0.875,
+   "status": "in progress",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
    "game": "Buccaneers vs. Panthers - Player Props",
@@ -10975,6 +11327,22 @@
    "avg_entry_price": 0.72,
    "current_price": 1.0,
    "status": "WON",
+   "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
+  },
+  {
+   "game": "Cowboys vs. Eagles",
+   "event_id": "1027875",
+   "condition_id": "0x3eb7cccb94b80c774c59936bb5c01321e36c9d04653ff21c49674d7570ba9491",
+   "market": "Cowboys vs. Eagles: 1H Moneyline",
+   "pick": "Eagles",
+   "market_type": "first_half_moneyline",
+   "kickoff": "2026-10-27T00:15:00+00:00",
+   "kickoff_et": "Mon 10/26 08:15 PM",
+   "wallets": 1,
+   "dollars": 15.98,
+   "avg_entry_price": 0.39,
+   "current_price": 0.415,
+   "status": "in progress",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {

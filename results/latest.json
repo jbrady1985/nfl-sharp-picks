@@ -9,33 +9,33 @@
   6,
   7
  ],
- "n_games": 484,
+ "n_games": 486,
  "n_trades": 1280068,
  "n_wallets": 22506,
  "n_consistent": 692,
  "n_eligible": 527,
  "min_volume": 1000,
  "top_n": 10,
- "run_time": "2026-10-30T00:38:25.718040+00:00",
+ "run_time": "2026-10-30T18:33:46.130902+00:00",
  "top": [
   {
    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-   "realized_pnl": 6130198.77032938,
+   "realized_pnl": 6387092.568529363,
    "season_buy_volume": 21712818.801452693,
    "markets_traded": 247,
    "had_unmatched_sells": false,
-   "roi_pct": 28.2330858392,
+   "roi_pct": 29.4162293111,
    "name": "BreakTheBank",
    "pseudonym": "Homely-Gosling",
    "profile_url": "https://polymarket.com/profile/0xf0318c32136c2db7fec88b84869aee6a1106c80c"
   },
   {
    "wallet": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
-   "realized_pnl": 1395145.737716911,
+   "realized_pnl": 1304944.789018464,
    "season_buy_volume": 7504983.544812037,
    "markets_traded": 221,
    "had_unmatched_sells": false,
-   "roi_pct": 18.589590895,
+   "roi_pct": 17.3877101959,
    "name": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
    "pseudonym": "Dual-Criticism",
    "profile_url": "https://polymarket.com/profile/0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
@@ -53,22 +53,22 @@
   },
   {
    "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
-   "realized_pnl": 893968.5140747803,
+   "realized_pnl": 837228.3052067384,
    "season_buy_volume": 7435235.250164761,
    "markets_traded": 1411,
    "had_unmatched_sells": true,
-   "roi_pct": 12.0234059044,
+   "roi_pct": 11.2602799648,
    "name": "takeormake",
    "pseudonym": "Scary-Fannypack",
    "profile_url": "https://polymarket.com/profile/0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
    "wallet": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294",
-   "realized_pnl": 782240.6572403088,
+   "realized_pnl": 794448.8616453515,
    "season_buy_volume": 3581958.1706389417,
    "markets_traded": 1681,
    "had_unmatched_sells": true,
-   "roi_pct": 21.8383526545,
+   "roi_pct": 22.179177528,
    "name": "VeryLucky888",
    "pseudonym": "Scornful-West",
    "profile_url": "https://polymarket.com/profile/0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
@@ -97,33 +97,33 @@
   },
   {
    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-   "realized_pnl": 513848.9222160409,
+   "realized_pnl": 533057.0465170648,
    "season_buy_volume": 20223664.697826434,
    "markets_traded": 1696,
    "had_unmatched_sells": false,
-   "roi_pct": 2.5408299133,
+   "roi_pct": 2.6358083685,
    "name": "ferrariChampions2026",
    "pseudonym": "Glaring-Salt",
    "profile_url": "https://polymarket.com/profile/0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
    "wallet": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
-   "realized_pnl": 418486.4614750592,
+   "realized_pnl": 406532.5248621187,
    "season_buy_volume": 11683443.369820654,
    "markets_traded": 4572,
    "had_unmatched_sells": true,
-   "roi_pct": 3.5818760637,
+   "roi_pct": 3.4795608794,
    "name": "",
    "pseudonym": "",
    "profile_url": "https://polymarket.com/profile/0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
    "wallet": "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f",
-   "realized_pnl": 247246.9957062191,
+   "realized_pnl": 227438.2464282617,
    "season_buy_volume": 1512233.9712197382,
    "markets_traded": 119,
    "had_unmatched_sells": true,
-   "roi_pct": 16.3497845183,
+   "roi_pct": 15.0398847504,
    "name": "bands1",
    "pseudonym": "Automatic-Kind",
    "profile_url": "https://polymarket.com/profile/0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f"
@@ -142,8 +142,8 @@
    "wallets": 2,
    "dollars": 34361.13,
    "avg_entry_price": 0.52,
-   "current_price": 0.545,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -158,8 +158,8 @@
    "wallets": 1,
    "dollars": 1679.52,
    "avg_entry_price": 0.48,
-   "current_price": 0.395,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -174,8 +174,8 @@
    "wallets": 1,
    "dollars": 11.48,
    "avg_entry_price": 0.14,
-   "current_price": 0.135,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -190,8 +190,8 @@
    "wallets": 2,
    "dollars": 19183.85,
    "avg_entry_price": 0.49,
-   "current_price": 0.505,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f"
   },
   {
@@ -206,8 +206,8 @@
    "wallets": 2,
    "dollars": 7364.2,
    "avg_entry_price": 0.735,
-   "current_price": 0.71,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -222,8 +222,8 @@
    "wallets": 1,
    "dollars": 3750.0,
    "avg_entry_price": 0.75,
-   "current_price": 0.74,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -238,8 +238,8 @@
    "wallets": 1,
    "dollars": 11725.32,
    "avg_entry_price": 0.25,
-   "current_price": 0.26,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
   },
   {
@@ -254,8 +254,8 @@
    "wallets": 2,
    "dollars": 2497.89,
    "avg_entry_price": 0.604,
-   "current_price": 0.585,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -270,8 +270,8 @@
    "wallets": 1,
    "dollars": 9.24,
    "avg_entry_price": 0.77,
-   "current_price": 0.7,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -286,8 +286,8 @@
    "wallets": 5,
    "dollars": 254070.67,
    "avg_entry_price": 0.5,
-   "current_price": 0.495,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xf0318c32136c2db7fec88b84869aee6a1106c80c, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -302,8 +302,8 @@
    "wallets": 2,
    "dollars": 37.38,
    "avg_entry_price": 0.343,
-   "current_price": 0.335,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -318,8 +318,8 @@
    "wallets": 1,
    "dollars": 92.01,
    "avg_entry_price": 0.3,
-   "current_price": 0.2,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -334,8 +334,8 @@
    "wallets": 1,
    "dollars": 719.39,
    "avg_entry_price": 0.6,
-   "current_price": 0.675,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -350,8 +350,8 @@
    "wallets": 1,
    "dollars": 14.06,
    "avg_entry_price": 0.36,
-   "current_price": 0.345,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -366,8 +366,8 @@
    "wallets": 1,
    "dollars": 6.0,
    "avg_entry_price": 0.2,
-   "current_price": 0.165,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -382,8 +382,8 @@
    "wallets": 5,
    "dollars": 48387.2,
    "avg_entry_price": 0.633,
-   "current_price": 0.635,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xf0318c32136c2db7fec88b84869aee6a1106c80c, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -398,8 +398,8 @@
    "wallets": 1,
    "dollars": 96.0,
    "avg_entry_price": 0.32,
-   "current_price": 0.225,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -414,8 +414,8 @@
    "wallets": 1,
    "dollars": 141.18,
    "avg_entry_price": 0.871,
-   "current_price": 0.86,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -430,8 +430,8 @@
    "wallets": 1,
    "dollars": 262.49,
    "avg_entry_price": 0.82,
-   "current_price": 0.75,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -446,8 +446,8 @@
    "wallets": 1,
    "dollars": 1305.42,
    "avg_entry_price": 0.52,
-   "current_price": 0.525,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -462,8 +462,8 @@
    "wallets": 1,
    "dollars": 566.72,
    "avg_entry_price": 0.14,
-   "current_price": 0.115,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -478,8 +478,8 @@
    "wallets": 2,
    "dollars": 8813.07,
    "avg_entry_price": 0.49,
-   "current_price": 0.455,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -494,8 +494,8 @@
    "wallets": 1,
    "dollars": 7950.0,
    "avg_entry_price": 0.795,
-   "current_price": 0.79,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -510,8 +510,8 @@
    "wallets": 1,
    "dollars": 493.38,
    "avg_entry_price": 0.49,
-   "current_price": 0.69,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -526,8 +526,8 @@
    "wallets": 1,
    "dollars": 20654.54,
    "avg_entry_price": 0.205,
-   "current_price": 0.21,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
   },
   {
@@ -542,8 +542,8 @@
    "wallets": 4,
    "dollars": 70438.61,
    "avg_entry_price": 0.37,
-   "current_price": 0.365,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -558,8 +558,8 @@
    "wallets": 3,
    "dollars": 783.68,
    "avg_entry_price": 0.55,
-   "current_price": 0.605,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -574,8 +574,8 @@
    "wallets": 1,
    "dollars": 1205.61,
    "avg_entry_price": 0.59,
-   "current_price": 0.405,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -590,8 +590,8 @@
    "wallets": 1,
    "dollars": 252.5,
    "avg_entry_price": 0.5,
-   "current_price": 0.475,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -606,8 +606,8 @@
    "wallets": 2,
    "dollars": 983.05,
    "avg_entry_price": 0.181,
-   "current_price": 0.13,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -622,8 +622,8 @@
    "wallets": 2,
    "dollars": 522.36,
    "avg_entry_price": 0.1,
-   "current_price": 0.07,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -638,8 +638,8 @@
    "wallets": 1,
    "dollars": 122.02,
    "avg_entry_price": 0.416,
-   "current_price": 0.405,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -654,8 +654,8 @@
    "wallets": 1,
    "dollars": 105.0,
    "avg_entry_price": 0.42,
-   "current_price": 0.415,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -670,8 +670,8 @@
    "wallets": 1,
    "dollars": 5.4,
    "avg_entry_price": 0.05,
-   "current_price": 0.075,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -686,8 +686,8 @@
    "wallets": 1,
    "dollars": 10.5,
    "avg_entry_price": 0.175,
-   "current_price": 0.18,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -702,8 +702,8 @@
    "wallets": 1,
    "dollars": 607.43,
    "avg_entry_price": 0.11,
-   "current_price": 0.09,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -718,8 +718,8 @@
    "wallets": 1,
    "dollars": 432.37,
    "avg_entry_price": 0.53,
-   "current_price": 0.545,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f"
   },
   {
@@ -734,8 +734,8 @@
    "wallets": 2,
    "dollars": 276.49,
    "avg_entry_price": 0.561,
-   "current_price": 0.565,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -750,8 +750,8 @@
    "wallets": 1,
    "dollars": 1.7,
    "avg_entry_price": 0.34,
-   "current_price": 0.35,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -766,8 +766,8 @@
    "wallets": 1,
    "dollars": 26.69,
    "avg_entry_price": 0.299,
-   "current_price": 0.29,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -782,8 +782,8 @@
    "wallets": 4,
    "dollars": 6179.3,
    "avg_entry_price": 0.46,
-   "current_price": 0.415,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d, 0xfe787d2da716d60e8acff57fb87eb13cd4d10319"
   },
   {
@@ -798,8 +798,8 @@
    "wallets": 1,
    "dollars": 10.04,
    "avg_entry_price": 0.53,
-   "current_price": 0.55,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f"
   },
   {
@@ -814,8 +814,8 @@
    "wallets": 1,
    "dollars": 34.71,
    "avg_entry_price": 0.83,
-   "current_price": 0.82,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -830,8 +830,8 @@
    "wallets": 1,
    "dollars": 40.48,
    "avg_entry_price": 0.92,
-   "current_price": 0.935,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   },
   {
@@ -846,8 +846,8 @@
    "wallets": 2,
    "dollars": 30929.21,
    "avg_entry_price": 0.274,
-   "current_price": 0.29,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3"
   },
   {
@@ -862,8 +862,8 @@
    "wallets": 1,
    "dollars": 363.49,
    "avg_entry_price": 0.074,
-   "current_price": 0.057,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -878,8 +878,8 @@
    "wallets": 1,
    "dollars": 237.36,
    "avg_entry_price": 0.46,
-   "current_price": 0.45,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -894,8 +894,8 @@
    "wallets": 1,
    "dollars": 94.8,
    "avg_entry_price": 0.31,
-   "current_price": 0.26,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -910,8 +910,8 @@
    "wallets": 1,
    "dollars": 11.8,
    "avg_entry_price": 0.59,
-   "current_price": 0.595,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -926,8 +926,8 @@
    "wallets": 2,
    "dollars": 5686.84,
    "avg_entry_price": 0.449,
-   "current_price": 0.455,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -942,8 +942,8 @@
    "wallets": 1,
    "dollars": 82.3,
    "avg_entry_price": 0.46,
-   "current_price": 0.5,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294"
   },
   {
@@ -958,8 +958,8 @@
    "wallets": 2,
    "dollars": 190.17,
    "avg_entry_price": 0.652,
-   "current_price": 0.75,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x6d3c5bd13984b2de47c3a88ddc455309aab3d294, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -974,8 +974,8 @@
    "wallets": 2,
    "dollars": 31.6,
    "avg_entry_price": 0.152,
-   "current_price": 0.13,
-   "status": "in progress",
+   "current_price": 0.0,
+   "status": "LOST",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375, 0xa38a455bbdd4b68486548b7e19da99903f4f821d"
   },
   {
@@ -990,8 +990,8 @@
    "wallets": 1,
    "dollars": 18.25,
    "avg_entry_price": 0.73,
-   "current_price": 0.71,
-   "status": "in progress",
+   "current_price": 1.0,
+   "status": "WON",
    "wallet_list": "0x9b11866433281ade9f2811dbde8acdefc45f5375"
   }
  ]

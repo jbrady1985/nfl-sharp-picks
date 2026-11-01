@@ -165,7 +165,67 @@ with tab1:
                 "current_price": st.column_config.NumberColumn("current", format="%.3f"),
             })
 
+def wallet_label(wallet, row):
+    name = str(row.get("name") or "")
+    if not name or name.lower().startswith("0x"):
+        name = str(row.get("pseudonym") or "") or f"{wallet[:6]}…{wallet[-4:]}"
+    return name if len(name) <= 22 else name[:21] + "…"
+
+
 with tab2:
+    st.markdown("**Click a wallet to see its picks for this week.**")
+    wallets = list(top.index)
+    if st.session_state.get("pick_wallet") not in wallets:
+        st.session_state["pick_wallet"] = None
+    per_row = 5
+    for start in range(0, len(wallets), per_row):
+        cols = st.columns(per_row)
+        for col, w in zip(cols, wallets[start:start + per_row]):
+            row = top.loc[w]
+            rank = wallets.index(w) + 1
+            selected = st.session_state["pick_wallet"] == w
+            label = f"{rank}. {wallet_label(w, row)}\n\n${row['realized_pnl']:,.0f}"
+            if col.button(label, key=f"wallet_{w}", width="stretch",
+                          type="primary" if selected else "secondary"):
+                st.session_state["pick_wallet"] = None if selected else w
+                st.rerun()
+
+    chosen = st.session_state.get("pick_wallet")
+    if chosen:
+        row = top.loc[chosen]
+        st.subheader(f"Week {week} picks · {wallet_label(chosen, row)}")
+        st.caption(f"Season realized P&L ${row['realized_pnl']:,.0f} · ROI {row['roi_pct']:.1f}% · "
+                   f"[Polymarket profile](https://polymarket.com/profile/{chosen})")
+        wp = ns.wallet_picks(cons, chosen)
+        if wp.empty:
+            st.info("This wallet holds no positions in this week's games yet.")
+        else:
+            has_own = wp["their_dollars"].notna().any()
+            if has_own:
+                st.metric("Their money on this week's games", f"${wp['their_dollars'].sum():,.0f}",
+                          help=f"Across {len(wp)} positions")
+            else:
+                st.caption("Per-wallet amounts appear after the next data refresh "
+                           "(or press **Get latest picks** above).")
+            cols = ["game", "market", "pick", "kickoff_et", "status", "their_dollars", "their_entry",
+                    "current_price", "with_them", "against_them"]
+            if not has_own:
+                cols = [c for c in cols if c not in ("their_dollars", "their_entry")]
+            st.dataframe(
+                wp[cols], hide_index=True, width="stretch",
+                column_config={
+                    "kickoff_et": "kickoff (ET)",
+                    "their_dollars": st.column_config.NumberColumn("their $", format="$%.0f"),
+                    "their_entry": st.column_config.NumberColumn("their entry", format="%.3f"),
+                    "current_price": st.column_config.NumberColumn("current", format="%.3f"),
+                    "with_them": st.column_config.NumberColumn(
+                        "others with them", help="Other followed wallets holding the same pick"),
+                    "against_them": st.column_config.NumberColumn(
+                        "others against", help="Followed wallets on the other side of the same market"),
+                })
+
+    st.markdown("---")
+    st.caption("All followed wallets")
     show = [c for c in ["name", "pseudonym", "realized_pnl", "season_buy_volume",
                         "roi_pct", "markets_traded", "had_unmatched_sells",
                         "profile_url"] if c in top.columns]

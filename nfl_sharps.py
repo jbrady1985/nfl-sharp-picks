@@ -503,8 +503,40 @@ def build_consensus(pos, top_wallets, week, tokens, now) -> pd.DataFrame:
             "current_price": info.get("current_price"),
             "status": status,
             "wallet_list": ", ".join(sorted(grp["wallet"])),
+            # each followed wallet's own stake on this pick: {wallet: [dollars, shares]}
+            "by_wallet": json.dumps({w: [round(float(c), 2), round(float(sh), 4)]
+                                     for w, c, sh in zip(grp["wallet"], grp["end_cost"],
+                                                         grp["end_shares"])}),
         })
     return pd.DataFrame(rows)
+
+
+def wallet_picks(cons: pd.DataFrame, wallet: str) -> pd.DataFrame:
+    """This week's positions for one followed wallet, with that wallet's own stake
+    (when the data has it) and how the other followed wallets lined up."""
+    if cons.empty or "wallet_list" not in cons:
+        return pd.DataFrame()
+    wallet = wallet.lower()
+    mine = cons[cons["wallet_list"].fillna("").str.lower().str.contains(wallet, regex=False)].copy()
+    if mine.empty:
+        return mine
+    per_market = cons.groupby("condition_id")["wallets"].sum()
+
+    def own(row, i):
+        try:
+            v = json.loads(row.get("by_wallet") or "{}").get(wallet)
+        except (TypeError, ValueError):
+            v = None
+        return v[i] if v else None
+
+    mine["their_dollars"] = mine.apply(lambda r: own(r, 0), axis=1)
+    shares = mine.apply(lambda r: own(r, 1), axis=1)
+    mine["their_entry"] = [d / s if d is not None and s else None
+                           for d, s in zip(mine["their_dollars"], shares)]
+    mine["with_them"] = mine["wallets"] - 1
+    mine["against_them"] = mine["condition_id"].map(per_market) - mine["wallets"]
+    return mine.sort_values(["kickoff", "their_dollars"], ascending=[True, False],
+                            na_position="last").reset_index(drop=True)
 
 
 # ----------------------------------------------------------------------------
